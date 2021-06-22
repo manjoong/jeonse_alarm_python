@@ -1,0 +1,4192 @@
+{
+  "subways": {
+    "subway": [
+      {
+        "name": "계산역",
+        "line": "1호선",
+        "latitude": 37.5432724,
+        "longitude": 126.7285494,
+        "stnId": 0
+      },
+      {
+        "name": "당고개역",
+        "line": "4호선",
+        "latitude": 37.6702713,
+        "longitude": 127.0790278,
+        "stnId": 1
+      },
+      {
+        "name": "동백역",
+        "line": "에버라인",
+        "latitude": 37.2691179,
+        "longitude": 127.1527292,
+        "stnId": 2
+      },
+      {
+        "name": "둔촌동역",
+        "line": "5호선",
+        "latitude": 37.5276623,
+        "longitude": 127.1362531,
+        "stnId": 3
+      },
+      {
+        "name": "성신여대입구역",
+        "line": "4호선",
+        "latitude": 37.5927293,
+        "longitude": 127.0165593,
+        "stnId": 4
+      },
+      {
+        "name": "삼성역",
+        "line": "2호선",
+        "latitude": 37.5088687,
+        "longitude": 127.0631629,
+        "stnId": 5
+      },
+      {
+        "name": "성수역",
+        "line": "2호선",
+        "latitude": 37.5445745,
+        "longitude": 127.055995,
+        "stnId": 6
+      },
+      {
+        "name": "내방역",
+        "line": "7호선",
+        "latitude": 37.4877173,
+        "longitude": 126.9936128,
+        "stnId": 7
+      },
+      {
+        "name": "신도림역",
+        "line": "2호선",
+        "latitude": 37.5085724,
+        "longitude": 126.8913551,
+        "stnId": 8
+      },
+      {
+        "name": "도봉역",
+        "line": "1호선",
+        "latitude": 37.6794483,
+        "longitude": 127.045539,
+        "stnId": 9
+      },
+      {
+        "name": "청구역",
+        "line": "6호선",
+        "latitude": 37.559825,
+        "longitude": 127.0135391,
+        "stnId": 10
+      },
+      {
+        "name": "신정역",
+        "line": "5호선",
+        "latitude": 37.5249878,
+        "longitude": 126.8561774,
+        "stnId": 11
+      },
+      {
+        "name": "인천대입구역",
+        "line": "1호선",
+        "latitude": 37.3862131,
+        "longitude": 126.6394215,
+        "stnId": 12
+      },
+      {
+        "name": "대공원역",
+        "line": "4호선",
+        "latitude": 37.4357359,
+        "longitude": 127.0064896,
+        "stnId": 13
+      },
+      {
+        "name": "월롱역",
+        "line": "경의중앙선",
+        "latitude": 37.7962093,
+        "longitude": 126.7925956,
+        "stnId": 14
+      },
+      {
+        "name": "몽촌토성역",
+        "line": "8호선",
+        "latitude": 37.5176489,
+        "longitude": 127.1127595,
+        "stnId": 15
+      },
+      {
+        "name": "명일역",
+        "line": "5호선",
+        "latitude": 37.5513175,
+        "longitude": 127.1440273,
+        "stnId": 16
+      },
+      {
+        "name": "지제역",
+        "line": "1호선",
+        "latitude": 37.0188291,
+        "longitude": 127.0702722,
+        "stnId": 17
+      },
+      {
+        "name": "숙대입구역",
+        "line": "4호선",
+        "latitude": 37.5451086,
+        "longitude": 126.9720094,
+        "stnId": 18
+      },
+      {
+        "name": "야당역",
+        "line": "경의중앙선",
+        "latitude": 37.7126697,
+        "longitude": 126.7614006,
+        "stnId": 19
+      },
+      {
+        "name": "구반포역",
+        "line": "9호선",
+        "latitude": 37.5014418,
+        "longitude": 126.987446,
+        "stnId": 20
+      },
+      {
+        "name": "도봉산역",
+        "line": "7호선",
+        "latitude": 37.6896095,
+        "longitude": 127.0463614,
+        "stnId": 21
+      },
+      {
+        "name": "천호역",
+        "line": "8호선",
+        "latitude": 37.5380096,
+        "longitude": 127.1232004,
+        "stnId": 22
+      },
+      {
+        "name": "귤현역",
+        "line": "1호선",
+        "latitude": 37.5664078,
+        "longitude": 126.7425888,
+        "stnId": 23
+      },
+      {
+        "name": "동인천역",
+        "line": "1호선",
+        "latitude": 37.4754269,
+        "longitude": 126.6326181,
+        "stnId": 24
+      },
+      {
+        "name": "여의나루역",
+        "line": "5호선",
+        "latitude": 37.527146,
+        "longitude": 126.9328277,
+        "stnId": 25
+      },
+      {
+        "name": "덕계역",
+        "line": "1호선",
+        "latitude": 37.8187725,
+        "longitude": 127.0566986,
+        "stnId": 26
+      },
+      {
+        "name": "남태령역",
+        "line": "4호선",
+        "latitude": 37.4642425,
+        "longitude": 126.9891115,
+        "stnId": 27
+      },
+      {
+        "name": "미아사거리역",
+        "line": "4호선",
+        "latitude": 37.6132588,
+        "longitude": 127.0301079,
+        "stnId": 28
+      },
+      {
+        "name": "부평삼거리역",
+        "line": "1호선",
+        "latitude": 37.4782747,
+        "longitude": 126.7104755,
+        "stnId": 29
+      },
+      {
+        "name": "신논현역",
+        "line": "9호선",
+        "latitude": 37.504734,
+        "longitude": 127.0253928,
+        "stnId": 30
+      },
+      {
+        "name": "을지로3가역",
+        "line": "2호선",
+        "latitude": 37.5662931,
+        "longitude": 126.9909507,
+        "stnId": 31
+      },
+      {
+        "name": "곡산역",
+        "line": "경의중앙선",
+        "latitude": 37.6459065,
+        "longitude": 126.8017157,
+        "stnId": 32
+      },
+      {
+        "name": "금촌역",
+        "line": "경의중앙선",
+        "latitude": 37.766119,
+        "longitude": 126.7745389,
+        "stnId": 33
+      },
+      {
+        "name": "팔당역",
+        "line": "경의중앙선",
+        "latitude": 37.5473217,
+        "longitude": 127.2439102,
+        "stnId": 34
+      },
+      {
+        "name": "사릉역",
+        "line": "경춘선",
+        "latitude": 37.6511526,
+        "longitude": 127.1768596,
+        "stnId": 35
+      },
+      {
+        "name": "당산역",
+        "line": "9호선",
+        "latitude": 37.5338827,
+        "longitude": 126.9019788,
+        "stnId": 36
+      },
+      {
+        "name": "석남(거북시장)역",
+        "line": "2호선",
+        "latitude": 37.5071624,
+        "longitude": 126.6762858,
+        "stnId": 37
+      },
+      {
+        "name": "보정역",
+        "line": "분당선",
+        "latitude": 37.3127468,
+        "longitude": 127.1082313,
+        "stnId": 38
+      },
+      {
+        "name": "도농역",
+        "line": "경의중앙선",
+        "latitude": 37.6087649,
+        "longitude": 127.1611184,
+        "stnId": 39
+      },
+      {
+        "name": "노량진역",
+        "line": "9호선",
+        "latitude": 37.5135762,
+        "longitude": 126.940837,
+        "stnId": 40
+      },
+      {
+        "name": "어정역",
+        "line": "에버라인",
+        "latitude": 37.2749556,
+        "longitude": 127.1437559,
+        "stnId": 41
+      },
+      {
+        "name": "광명역",
+        "line": "1호선",
+        "latitude": 37.4160066,
+        "longitude": 126.8845405,
+        "stnId": 42
+      },
+      {
+        "name": "광나루역",
+        "line": "5호선",
+        "latitude": 37.5453416,
+        "longitude": 127.1036277,
+        "stnId": 43
+      },
+      {
+        "name": "중동역",
+        "line": "1호선",
+        "latitude": 37.4866723,
+        "longitude": 126.7644931,
+        "stnId": 44
+      },
+      {
+        "name": "초당역",
+        "line": "에버라인",
+        "latitude": 37.2608307,
+        "longitude": 127.1594735,
+        "stnId": 45
+      },
+      {
+        "name": "신용산역",
+        "line": "4호선",
+        "latitude": 37.5291964,
+        "longitude": 126.9679056,
+        "stnId": 46
+      },
+      {
+        "name": "온수역",
+        "line": "7호선",
+        "latitude": 37.4919629,
+        "longitude": 126.8238529,
+        "stnId": 47
+      },
+      {
+        "name": "장승배기역",
+        "line": "7호선",
+        "latitude": 37.5049116,
+        "longitude": 126.9392062,
+        "stnId": 48
+      },
+      {
+        "name": "남영역",
+        "line": "1호선",
+        "latitude": 37.5406052,
+        "longitude": 126.9711885,
+        "stnId": 49
+      },
+      {
+        "name": "태평역",
+        "line": "분당선",
+        "latitude": 37.4398454,
+        "longitude": 127.127758,
+        "stnId": 50
+      },
+      {
+        "name": "대청역",
+        "line": "3호선",
+        "latitude": 37.4936072,
+        "longitude": 127.0795472,
+        "stnId": 51
+      },
+      {
+        "name": "원흥역",
+        "line": "3호선",
+        "latitude": 37.6507194,
+        "longitude": 126.8732581,
+        "stnId": 52
+      },
+      {
+        "name": "봉천역",
+        "line": "2호선",
+        "latitude": 37.4824878,
+        "longitude": 126.941592,
+        "stnId": 53
+      },
+      {
+        "name": "금곡역",
+        "line": "경춘선",
+        "latitude": 37.637417,
+        "longitude": 127.2079545,
+        "stnId": 54
+      },
+      {
+        "name": "개봉역",
+        "line": "1호선",
+        "latitude": 37.4947084,
+        "longitude": 126.858516,
+        "stnId": 55
+      },
+      {
+        "name": "보문역",
+        "line": "6호선",
+        "latitude": 37.5853374,
+        "longitude": 127.0194077,
+        "stnId": 56
+      },
+      {
+        "name": "수색역",
+        "line": "경의중앙선",
+        "latitude": 37.5808674,
+        "longitude": 126.895697,
+        "stnId": 57
+      },
+      {
+        "name": "단대오거리역",
+        "line": "8호선",
+        "latitude": 37.4450562,
+        "longitude": 127.1567196,
+        "stnId": 58
+      },
+      {
+        "name": "강동역",
+        "line": "5호선",
+        "latitude": 37.5359495,
+        "longitude": 127.1322087,
+        "stnId": 59
+      },
+      {
+        "name": "선학역",
+        "line": "1호선",
+        "latitude": 37.4269604,
+        "longitude": 126.6989272,
+        "stnId": 60
+      },
+      {
+        "name": "청담역",
+        "line": "7호선",
+        "latitude": 37.5191324,
+        "longitude": 127.0519485,
+        "stnId": 61
+      },
+      {
+        "name": "잠원역",
+        "line": "3호선",
+        "latitude": 37.5129726,
+        "longitude": 127.0116328,
+        "stnId": 62
+      },
+      {
+        "name": "평택역",
+        "line": "1호선",
+        "latitude": 36.990839,
+        "longitude": 127.0852501,
+        "stnId": 63
+      },
+      {
+        "name": "중화역",
+        "line": "7호선",
+        "latitude": 37.6025785,
+        "longitude": 127.0793068,
+        "stnId": 64
+      },
+      {
+        "name": "독정역",
+        "line": "2호선",
+        "latitude": 37.584908,
+        "longitude": 126.6759872,
+        "stnId": 65
+      },
+      {
+        "name": "홍대입구역",
+        "line": "공항철도",
+        "latitude": 37.5576978,
+        "longitude": 126.9265751,
+        "stnId": 66
+      },
+      {
+        "name": "영종역",
+        "line": "공항철도",
+        "latitude": 37.5120029,
+        "longitude": 126.5242606,
+        "stnId": 67
+      },
+      {
+        "name": "마천역",
+        "line": "5호선",
+        "latitude": 37.4950285,
+        "longitude": 127.1528115,
+        "stnId": 68
+      },
+      {
+        "name": "의왕역",
+        "line": "1호선",
+        "latitude": 37.3206608,
+        "longitude": 126.9481163,
+        "stnId": 69
+      },
+      {
+        "name": "반월역",
+        "line": "4호선",
+        "latitude": 37.3122566,
+        "longitude": 126.9036947,
+        "stnId": 70
+      },
+      {
+        "name": "숭의역",
+        "line": "수인선",
+        "latitude": 37.4609025,
+        "longitude": 126.6380932,
+        "stnId": 71
+      },
+      {
+        "name": "야탑역",
+        "line": "분당선",
+        "latitude": 37.4113241,
+        "longitude": 127.1286757,
+        "stnId": 72
+      },
+      {
+        "name": "수유(강북구청)역",
+        "line": "4호선",
+        "latitude": 37.6379915,
+        "longitude": 127.02564,
+        "stnId": 73
+      },
+      {
+        "name": "초지역",
+        "line": "4호선",
+        "latitude": 37.3205949,
+        "longitude": 126.8061609,
+        "stnId": 74
+      },
+      {
+        "name": "신갈역",
+        "line": "분당선",
+        "latitude": 37.2861338,
+        "longitude": 127.1113193,
+        "stnId": 75
+      },
+      {
+        "name": "덕정역",
+        "line": "1호선",
+        "latitude": 37.8432194,
+        "longitude": 127.0615346,
+        "stnId": 76
+      },
+      {
+        "name": "가재울역",
+        "line": "2호선",
+        "latitude": 37.4841083,
+        "longitude": 126.6838381,
+        "stnId": 77
+      },
+      {
+        "name": "천마산역",
+        "line": "경춘선",
+        "latitude": 37.6590131,
+        "longitude": 127.2853963,
+        "stnId": 78
+      },
+      {
+        "name": "대곡역",
+        "line": "3호선",
+        "latitude": 37.6316385,
+        "longitude": 126.811042,
+        "stnId": 79
+      },
+      {
+        "name": "한양대역",
+        "line": "2호선",
+        "latitude": 37.5556305,
+        "longitude": 127.0436776,
+        "stnId": 80
+      },
+      {
+        "name": "쌍문역",
+        "line": "4호선",
+        "latitude": 37.6486079,
+        "longitude": 127.0346918,
+        "stnId": 81
+      },
+      {
+        "name": "인천국제공항역",
+        "line": "자기부상철도",
+        "latitude": 37.4477854,
+        "longitude": 126.4521778,
+        "stnId": 82
+      },
+      {
+        "name": "파주역",
+        "line": "경의중앙선",
+        "latitude": 37.8153988,
+        "longitude": 126.7924424,
+        "stnId": 83
+      },
+      {
+        "name": "공항시장역",
+        "line": "9호선",
+        "latitude": 37.5637966,
+        "longitude": 126.8106597,
+        "stnId": 84
+      },
+      {
+        "name": "가천대역",
+        "line": "분당선",
+        "latitude": 37.4487942,
+        "longitude": 127.1266936,
+        "stnId": 85
+      },
+      {
+        "name": "면목역",
+        "line": "7호선",
+        "latitude": 37.5887571,
+        "longitude": 127.0875162,
+        "stnId": 86
+      },
+      {
+        "name": "도화역",
+        "line": "1호선",
+        "latitude": 37.4661173,
+        "longitude": 126.6687684,
+        "stnId": 87
+      },
+      {
+        "name": "잠실나루역",
+        "line": "2호선",
+        "latitude": 37.5206723,
+        "longitude": 127.1038432,
+        "stnId": 88
+      },
+      {
+        "name": "개포동역",
+        "line": "분당선",
+        "latitude": 37.489171,
+        "longitude": 127.0665183,
+        "stnId": 89
+      },
+      {
+        "name": "송정역",
+        "line": "5호선",
+        "latitude": 37.5611985,
+        "longitude": 126.8121384,
+        "stnId": 90
+      },
+      {
+        "name": "경마공원역",
+        "line": "4호선",
+        "latitude": 37.4439926,
+        "longitude": 127.0079175,
+        "stnId": 91
+      },
+      {
+        "name": "원당역",
+        "line": "3호선",
+        "latitude": 37.6533374,
+        "longitude": 126.8430284,
+        "stnId": 92
+      },
+      {
+        "name": "호구포역",
+        "line": "수인선",
+        "latitude": 37.401631,
+        "longitude": 126.708694,
+        "stnId": 93
+      },
+      {
+        "name": "범골역",
+        "line": "의정부경전철",
+        "latitude": 37.7288003,
+        "longitude": 127.043659,
+        "stnId": 94
+      },
+      {
+        "name": "보산역",
+        "line": "1호선",
+        "latitude": 37.9142734,
+        "longitude": 127.0571539,
+        "stnId": 95
+      },
+      {
+        "name": "상수역",
+        "line": "6호선",
+        "latitude": 37.5477446,
+        "longitude": 126.9229719,
+        "stnId": 96
+      },
+      {
+        "name": "연수역",
+        "line": "수인선",
+        "latitude": 37.418162,
+        "longitude": 126.6782139,
+        "stnId": 97
+      },
+      {
+        "name": "응암역",
+        "line": "6호선",
+        "latitude": 37.5984777,
+        "longitude": 126.9156058,
+        "stnId": 98
+      },
+      {
+        "name": "서강대역",
+        "line": "경의중앙선",
+        "latitude": 37.5521371,
+        "longitude": 126.9354031,
+        "stnId": 99
+      },
+      {
+        "name": "서구청역",
+        "line": "2호선",
+        "latitude": 37.5440116,
+        "longitude": 126.6768572,
+        "stnId": 100
+      },
+      {
+        "name": "양천구청역",
+        "line": "2호선",
+        "latitude": 37.5123293,
+        "longitude": 126.8656456,
+        "stnId": 101
+      },
+      {
+        "name": "오목교역",
+        "line": "5호선",
+        "latitude": 37.5245653,
+        "longitude": 126.8750654,
+        "stnId": 102
+      },
+      {
+        "name": "방학역",
+        "line": "1호선",
+        "latitude": 37.6674817,
+        "longitude": 127.0443092,
+        "stnId": 103
+      },
+      {
+        "name": "금천구청역",
+        "line": "1호선",
+        "latitude": 37.4556519,
+        "longitude": 126.8940234,
+        "stnId": 104
+      },
+      {
+        "name": "발곡역",
+        "line": "의정부경전철",
+        "latitude": 37.7269917,
+        "longitude": 127.0529049,
+        "stnId": 105
+      },
+      {
+        "name": "천안역",
+        "line": "1호선",
+        "latitude": 36.8102432,
+        "longitude": 127.1464178,
+        "stnId": 106
+      },
+      {
+        "name": "굴포천역",
+        "line": "7호선",
+        "latitude": 37.5070102,
+        "longitude": 126.7314488,
+        "stnId": 107
+      },
+      {
+        "name": "불광역",
+        "line": "6호선",
+        "latitude": 37.6109483,
+        "longitude": 126.9294809,
+        "stnId": 108
+      },
+      {
+        "name": "대림역",
+        "line": "7호선",
+        "latitude": 37.492809,
+        "longitude": 126.896688,
+        "stnId": 109
+      },
+      {
+        "name": "논현역",
+        "line": "7호선",
+        "latitude": 37.5112185,
+        "longitude": 127.0217456,
+        "stnId": 110
+      },
+      {
+        "name": "당정역",
+        "line": "1호선",
+        "latitude": 37.3433884,
+        "longitude": 126.9483979,
+        "stnId": 111
+      },
+      {
+        "name": "간석오거리역",
+        "line": "1호선",
+        "latitude": 37.4669116,
+        "longitude": 126.7079009,
+        "stnId": 112
+      },
+      {
+        "name": "녹천역",
+        "line": "1호선",
+        "latitude": 37.6446077,
+        "longitude": 127.0514235,
+        "stnId": 113
+      },
+      {
+        "name": "망포역",
+        "line": "분당선",
+        "latitude": 37.2458077,
+        "longitude": 127.0573734,
+        "stnId": 114
+      },
+      {
+        "name": "의정부시청역",
+        "line": "의정부경전철",
+        "latitude": 37.7392436,
+        "longitude": 127.0348679,
+        "stnId": 115
+      },
+      {
+        "name": "종각역",
+        "line": "1호선",
+        "latitude": 37.5701816,
+        "longitude": 126.9831213,
+        "stnId": 116
+      },
+      {
+        "name": "혜화역",
+        "line": "4호선",
+        "latitude": 37.5820913,
+        "longitude": 127.0019125,
+        "stnId": 117
+      },
+      {
+        "name": "원덕역",
+        "line": "경의중앙선",
+        "latitude": 37.4685855,
+        "longitude": 127.547487,
+        "stnId": 118
+      },
+      {
+        "name": "사가정역",
+        "line": "7호선",
+        "latitude": 37.5809707,
+        "longitude": 127.0885168,
+        "stnId": 119
+      },
+      {
+        "name": "동두천중앙역",
+        "line": "1호선",
+        "latitude": 37.9016807,
+        "longitude": 127.0564274,
+        "stnId": 120
+      },
+      {
+        "name": "신중동역",
+        "line": "7호선",
+        "latitude": 37.5030644,
+        "longitude": 126.7759742,
+        "stnId": 121
+      },
+      {
+        "name": "광명사거리역",
+        "line": "7호선",
+        "latitude": 37.479423,
+        "longitude": 126.8544067,
+        "stnId": 122
+      },
+      {
+        "name": "지석역",
+        "line": "에버라인",
+        "latitude": 37.2697499,
+        "longitude": 127.1366664,
+        "stnId": 123
+      },
+      {
+        "name": "김유정역",
+        "line": "경춘선",
+        "latitude": 37.8184743,
+        "longitude": 127.7143217,
+        "stnId": 124
+      },
+      {
+        "name": "신사역",
+        "line": "3호선",
+        "latitude": 37.5165612,
+        "longitude": 127.02059,
+        "stnId": 125
+      },
+      {
+        "name": "새절역",
+        "line": "6호선",
+        "latitude": 37.5910257,
+        "longitude": 126.9135964,
+        "stnId": 126
+      },
+      {
+        "name": "회현역",
+        "line": "4호선",
+        "latitude": 37.5585519,
+        "longitude": 126.9782199,
+        "stnId": 127
+      },
+      {
+        "name": "안국역",
+        "line": "3호선",
+        "latitude": 37.5765633,
+        "longitude": 126.9854913,
+        "stnId": 128
+      },
+      {
+        "name": "양원역",
+        "line": "경의중앙선",
+        "latitude": 37.6066466,
+        "longitude": 127.1080808,
+        "stnId": 129
+      },
+      {
+        "name": "국제업무지구역",
+        "line": "1호선",
+        "latitude": 37.4004322,
+        "longitude": 126.6301181,
+        "stnId": 130
+      },
+      {
+        "name": "매봉역",
+        "line": "3호선",
+        "latitude": 37.4870416,
+        "longitude": 127.0469373,
+        "stnId": 131
+      },
+      {
+        "name": "솔밭공원역",
+        "line": "우이신설선",
+        "latitude": 37.6560447,
+        "longitude": 127.0132779,
+        "stnId": 132
+      },
+      {
+        "name": "용두역",
+        "line": "2호선",
+        "latitude": 37.5739352,
+        "longitude": 127.0386665,
+        "stnId": 133
+      },
+      {
+        "name": "장한평역",
+        "line": "5호선",
+        "latitude": 37.5614841,
+        "longitude": 127.0646786,
+        "stnId": 134
+      },
+      {
+        "name": "마석역",
+        "line": "경춘선",
+        "latitude": 37.6527988,
+        "longitude": 127.3117027,
+        "stnId": 135
+      },
+      {
+        "name": "일원역",
+        "line": "3호선",
+        "latitude": 37.4838747,
+        "longitude": 127.0840537,
+        "stnId": 136
+      },
+      {
+        "name": "구룡역",
+        "line": "분당선",
+        "latitude": 37.4869891,
+        "longitude": 127.059512,
+        "stnId": 137
+      },
+      {
+        "name": "암사역",
+        "line": "8호선",
+        "latitude": 37.5501518,
+        "longitude": 127.12754,
+        "stnId": 138
+      },
+      {
+        "name": "북한산보국문역",
+        "line": "우이신설선",
+        "latitude": 37.6120862,
+        "longitude": 127.0082516,
+        "stnId": 139
+      },
+      {
+        "name": "장지역",
+        "line": "8호선",
+        "latitude": 37.4786968,
+        "longitude": 127.126188,
+        "stnId": 140
+      },
+      {
+        "name": "테크노파크역",
+        "line": "1호선",
+        "latitude": 37.3823073,
+        "longitude": 126.6564067,
+        "stnId": 141
+      },
+      {
+        "name": "의정부역",
+        "line": "1호선",
+        "latitude": 37.7384333,
+        "longitude": 127.04602,
+        "stnId": 142
+      },
+      {
+        "name": "아산역",
+        "line": "1호선",
+        "latitude": 36.7922047,
+        "longitude": 127.1050481,
+        "stnId": 143
+      },
+      {
+        "name": "오이도역",
+        "line": "4호선",
+        "latitude": 37.3617832,
+        "longitude": 126.7384556,
+        "stnId": 144
+      },
+      {
+        "name": "정부과천청사역",
+        "line": "4호선",
+        "latitude": 37.4265382,
+        "longitude": 126.9897084,
+        "stnId": 145
+      },
+      {
+        "name": "솔샘역",
+        "line": "우이신설선",
+        "latitude": 37.6202673,
+        "longitude": 127.0135917,
+        "stnId": 146
+      },
+      {
+        "name": "중계역",
+        "line": "7호선",
+        "latitude": 37.6455003,
+        "longitude": 127.0639223,
+        "stnId": 147
+      },
+      {
+        "name": "인천시청역",
+        "line": "2호선",
+        "latitude": 37.4568992,
+        "longitude": 126.7011444,
+        "stnId": 148
+      },
+      {
+        "name": "길동역",
+        "line": "5호선",
+        "latitude": 37.5377725,
+        "longitude": 127.1400065,
+        "stnId": 149
+      },
+      {
+        "name": "까치울역",
+        "line": "7호선",
+        "latitude": 37.5062507,
+        "longitude": 126.8109615,
+        "stnId": 150
+      },
+      {
+        "name": "화서역",
+        "line": "1호선",
+        "latitude": 37.2839963,
+        "longitude": 126.9895959,
+        "stnId": 151
+      },
+      {
+        "name": "역곡역",
+        "line": "1호선",
+        "latitude": 37.4851362,
+        "longitude": 126.8115446,
+        "stnId": 152
+      },
+      {
+        "name": "매교역",
+        "line": "분당선",
+        "latitude": 37.2655092,
+        "longitude": 127.0156722,
+        "stnId": 153
+      },
+      {
+        "name": "전대에버랜드역",
+        "line": "에버라인",
+        "latitude": 37.2854085,
+        "longitude": 127.2195015,
+        "stnId": 154
+      },
+      {
+        "name": "디지털미디어시티역",
+        "line": "6호선",
+        "latitude": 37.5760726,
+        "longitude": 126.9013603,
+        "stnId": 155
+      },
+      {
+        "name": "명동역",
+        "line": "4호선",
+        "latitude": 37.5609748,
+        "longitude": 126.9864835,
+        "stnId": 156
+      },
+      {
+        "name": "국회의사당역",
+        "line": "9호선",
+        "latitude": 37.5281364,
+        "longitude": 126.9178682,
+        "stnId": 157
+      },
+      {
+        "name": "평촌역",
+        "line": "4호선",
+        "latitude": 37.3943543,
+        "longitude": 126.9638935,
+        "stnId": 158
+      },
+      {
+        "name": "이대역",
+        "line": "2호선",
+        "latitude": 37.5567722,
+        "longitude": 126.9458744,
+        "stnId": 159
+      },
+      {
+        "name": "병점역",
+        "line": "1호선",
+        "latitude": 37.2068305,
+        "longitude": 127.033276,
+        "stnId": 160
+      },
+      {
+        "name": "월드컵경기장역",
+        "line": "6호선",
+        "latitude": 37.5696645,
+        "longitude": 126.8992356,
+        "stnId": 161
+      },
+      {
+        "name": "부평시장역",
+        "line": "1호선",
+        "latitude": 37.4984598,
+        "longitude": 126.7222747,
+        "stnId": 162
+      },
+      {
+        "name": "가정중앙시장역",
+        "line": "2호선",
+        "latitude": 37.517467,
+        "longitude": 126.6768166,
+        "stnId": 163
+      },
+      {
+        "name": "마전역",
+        "line": "2호선",
+        "latitude": 37.5976486,
+        "longitude": 126.6672007,
+        "stnId": 164
+      },
+      {
+        "name": "산본역",
+        "line": "4호선",
+        "latitude": 37.3580281,
+        "longitude": 126.9329775,
+        "stnId": 165
+      },
+      {
+        "name": "정릉역",
+        "line": "우이신설선",
+        "latitude": 37.6026692,
+        "longitude": 127.0134954,
+        "stnId": 166
+      },
+      {
+        "name": "창동역",
+        "line": "4호선",
+        "latitude": 37.6531915,
+        "longitude": 127.047688,
+        "stnId": 167
+      },
+      {
+        "name": "삼양역",
+        "line": "우이신설선",
+        "latitude": 37.6269189,
+        "longitude": 127.0181601,
+        "stnId": 168
+      },
+      {
+        "name": "일산역",
+        "line": "경의중앙선",
+        "latitude": 37.682009,
+        "longitude": 126.7700613,
+        "stnId": 169
+      },
+      {
+        "name": "진위역",
+        "line": "1호선",
+        "latitude": 37.1097803,
+        "longitude": 127.0623561,
+        "stnId": 170
+      },
+      {
+        "name": "안산역",
+        "line": "4호선",
+        "latitude": 37.327014,
+        "longitude": 126.7887621,
+        "stnId": 171
+      },
+      {
+        "name": "상계역",
+        "line": "4호선",
+        "latitude": 37.6605758,
+        "longitude": 127.0732198,
+        "stnId": 172
+      },
+      {
+        "name": "범계역",
+        "line": "4호선",
+        "latitude": 37.3897965,
+        "longitude": 126.950766,
+        "stnId": 173
+      },
+      {
+        "name": "선정릉역",
+        "line": "9호선",
+        "latitude": 37.5102731,
+        "longitude": 127.0438711,
+        "stnId": 174
+      },
+      {
+        "name": "중곡역",
+        "line": "7호선",
+        "latitude": 37.5655468,
+        "longitude": 127.0841088,
+        "stnId": 175
+      },
+      {
+        "name": "상도역",
+        "line": "7호선",
+        "latitude": 37.5030778,
+        "longitude": 126.9477711,
+        "stnId": 176
+      },
+      {
+        "name": "군자역",
+        "line": "7호선",
+        "latitude": 37.5575202,
+        "longitude": 127.0797022,
+        "stnId": 177
+      },
+      {
+        "name": "선바위역",
+        "line": "4호선",
+        "latitude": 37.4518647,
+        "longitude": 127.0021738,
+        "stnId": 178
+      },
+      {
+        "name": "버티고개역",
+        "line": "6호선",
+        "latitude": 37.5481391,
+        "longitude": 127.0071518,
+        "stnId": 179
+      },
+      {
+        "name": "왕십리역",
+        "line": "5호선",
+        "latitude": 37.5619666,
+        "longitude": 127.0372241,
+        "stnId": 180
+      },
+      {
+        "name": "선유도역",
+        "line": "9호선",
+        "latitude": 37.5378624,
+        "longitude": 126.893932,
+        "stnId": 181
+      },
+      {
+        "name": "구성역",
+        "line": "분당선",
+        "latitude": 37.299022,
+        "longitude": 127.1056748,
+        "stnId": 182
+      },
+      {
+        "name": "답십리역",
+        "line": "5호선",
+        "latitude": 37.5670809,
+        "longitude": 127.0523947,
+        "stnId": 183
+      },
+      {
+        "name": "퇴계원역",
+        "line": "경춘선",
+        "latitude": 37.6483233,
+        "longitude": 127.1438802,
+        "stnId": 184
+      },
+      {
+        "name": "고려대역",
+        "line": "6호선",
+        "latitude": 37.5904105,
+        "longitude": 127.0358732,
+        "stnId": 185
+      },
+      {
+        "name": "강촌역",
+        "line": "경춘선",
+        "latitude": 37.8057289,
+        "longitude": 127.6340807,
+        "stnId": 186
+      },
+      {
+        "name": "가왕역",
+        "line": "9호선",
+        "latitude": 37.5615603,
+        "longitude": 126.8542609,
+        "stnId": 187
+      },
+      {
+        "name": "안암역",
+        "line": "6호선",
+        "latitude": 37.5863008,
+        "longitude": 127.0291552,
+        "stnId": 188
+      },
+      {
+        "name": "외대앞역",
+        "line": "1호선",
+        "latitude": 37.5961657,
+        "longitude": 127.0635885,
+        "stnId": 189
+      },
+      {
+        "name": "왕길역",
+        "line": "2호선",
+        "latitude": 37.5950768,
+        "longitude": 126.6423234,
+        "stnId": 190
+      },
+      {
+        "name": "광교(경기대)역",
+        "line": "신분당선",
+        "latitude": 37.3020835,
+        "longitude": 127.0441969,
+        "stnId": 191
+      },
+      {
+        "name": "서울숲역",
+        "line": "분당선",
+        "latitude": 37.5436548,
+        "longitude": 127.0447017,
+        "stnId": 192
+      },
+      {
+        "name": "동작역",
+        "line": "9호선",
+        "latitude": 37.5033146,
+        "longitude": 126.9778524,
+        "stnId": 193
+      },
+      {
+        "name": "금정역",
+        "line": "4호선",
+        "latitude": 37.3722699,
+        "longitude": 126.9435809,
+        "stnId": 194
+      },
+      {
+        "name": "대방역",
+        "line": "1호선",
+        "latitude": 37.5134013,
+        "longitude": 126.9264286,
+        "stnId": 195
+      },
+      {
+        "name": "화랑대역",
+        "line": "6호선",
+        "latitude": 37.6198309,
+        "longitude": 127.0836142,
+        "stnId": 196
+      },
+      {
+        "name": "춘의역",
+        "line": "7호선",
+        "latitude": 37.5037196,
+        "longitude": 126.7870924,
+        "stnId": 197
+      },
+      {
+        "name": "장기주차장역",
+        "line": "자기부상철도",
+        "latitude": 37.4439104,
+        "longitude": 126.4555799,
+        "stnId": 198
+      },
+      {
+        "name": "독산역",
+        "line": "1호선",
+        "latitude": 37.4662045,
+        "longitude": 126.8893577,
+        "stnId": 199
+      },
+      {
+        "name": "청명역",
+        "line": "분당선",
+        "latitude": 37.2594938,
+        "longitude": 127.0789611,
+        "stnId": 200
+      },
+      {
+        "name": "인하대역",
+        "line": "수인선",
+        "latitude": 37.4482066,
+        "longitude": 126.6498506,
+        "stnId": 201
+      },
+      {
+        "name": "곤제역",
+        "line": "의정부경전철",
+        "latitude": 37.7505363,
+        "longitude": 127.0838454,
+        "stnId": 202
+      },
+      {
+        "name": "대치역",
+        "line": "3호선",
+        "latitude": 37.4945803,
+        "longitude": 127.0634655,
+        "stnId": 203
+      },
+      {
+        "name": "평내호평역",
+        "line": "경춘선",
+        "latitude": 37.6532351,
+        "longitude": 127.2444715,
+        "stnId": 204
+      },
+      {
+        "name": "녹사평(용산구청)역",
+        "line": "6호선",
+        "latitude": 37.5345867,
+        "longitude": 126.9868968,
+        "stnId": 205
+      },
+      {
+        "name": "공항화물청사역",
+        "line": "공항철도",
+        "latitude": 37.4590615,
+        "longitude": 126.4775125,
+        "stnId": 206
+      },
+      {
+        "name": "양평역",
+        "line": "5호선",
+        "latitude": 37.5256168,
+        "longitude": 126.8862046,
+        "stnId": 207
+      },
+      {
+        "name": "뚝섬유원지역",
+        "line": "7호선",
+        "latitude": 37.5315402,
+        "longitude": 127.066704,
+        "stnId": 208
+      },
+      {
+        "name": "구리역",
+        "line": "경의중앙선",
+        "latitude": 37.6034144,
+        "longitude": 127.1437601,
+        "stnId": 209
+      },
+      {
+        "name": "철산역",
+        "line": "7호선",
+        "latitude": 37.4762045,
+        "longitude": 126.8682715,
+        "stnId": 210
+      },
+      {
+        "name": "송산역",
+        "line": "의정부경전철",
+        "latitude": 37.7372634,
+        "longitude": 127.0872309,
+        "stnId": 211
+      },
+      {
+        "name": "광화문역",
+        "line": "5호선",
+        "latitude": 37.5716288,
+        "longitude": 126.9764566,
+        "stnId": 212
+      },
+      {
+        "name": "거여역",
+        "line": "5호선",
+        "latitude": 37.4934305,
+        "longitude": 127.143613,
+        "stnId": 213
+      },
+      {
+        "name": "독립문역",
+        "line": "3호선",
+        "latitude": 37.5744584,
+        "longitude": 126.9579311,
+        "stnId": 214
+      },
+      {
+        "name": "마들역",
+        "line": "7호선",
+        "latitude": 37.6653812,
+        "longitude": 127.0576316,
+        "stnId": 215
+      },
+      {
+        "name": "박촌역",
+        "line": "1호선",
+        "latitude": 37.5535397,
+        "longitude": 126.7450004,
+        "stnId": 216
+      },
+      {
+        "name": "굽은다리역",
+        "line": "5호선",
+        "latitude": 37.5455428,
+        "longitude": 127.1429276,
+        "stnId": 217
+      },
+      {
+        "name": "연신내역",
+        "line": "6호선",
+        "latitude": 37.6185886,
+        "longitude": 126.9205134,
+        "stnId": 218
+      },
+      {
+        "name": "압구정역",
+        "line": "3호선",
+        "latitude": 37.5261507,
+        "longitude": 127.0285087,
+        "stnId": 219
+      },
+      {
+        "name": "캠퍼스타운역",
+        "line": "1호선",
+        "latitude": 37.3882014,
+        "longitude": 126.6620833,
+        "stnId": 220
+      },
+      {
+        "name": "운서역",
+        "line": "공항철도",
+        "latitude": 37.4927794,
+        "longitude": 126.4938585,
+        "stnId": 221
+      },
+      {
+        "name": "신대방삼거리역",
+        "line": "7호선",
+        "latitude": 37.4997305,
+        "longitude": 126.9282074,
+        "stnId": 222
+      },
+      {
+        "name": "도심역",
+        "line": "경의중앙선",
+        "latitude": 37.5796321,
+        "longitude": 127.2228201,
+        "stnId": 223
+      },
+      {
+        "name": "삼산체육관역",
+        "line": "7호선",
+        "latitude": 37.5064927,
+        "longitude": 126.742044,
+        "stnId": 224
+      },
+      {
+        "name": "한대앞역",
+        "line": "4호선",
+        "latitude": 37.3096926,
+        "longitude": 126.8536674,
+        "stnId": 225
+      },
+      {
+        "name": "가오리역",
+        "line": "우이신설선",
+        "latitude": 37.6415586,
+        "longitude": 127.016812,
+        "stnId": 226
+      },
+      {
+        "name": "송내역",
+        "line": "1호선",
+        "latitude": 37.4876336,
+        "longitude": 126.7530568,
+        "stnId": 227
+      },
+      {
+        "name": "지축역",
+        "line": "3호선",
+        "latitude": 37.6481255,
+        "longitude": 126.9137634,
+        "stnId": 228
+      },
+      {
+        "name": "백운역",
+        "line": "1호선",
+        "latitude": 37.4833117,
+        "longitude": 126.7071892,
+        "stnId": 229
+      },
+      {
+        "name": "석촌역",
+        "line": "8호선",
+        "latitude": 37.5054503,
+        "longitude": 127.1069996,
+        "stnId": 230
+      },
+      {
+        "name": "이촌역",
+        "line": "4호선",
+        "latitude": 37.52236,
+        "longitude": 126.9744141,
+        "stnId": 231
+      },
+      {
+        "name": "양재시민의숲역",
+        "line": "신분당선",
+        "latitude": 37.4700142,
+        "longitude": 127.0383465,
+        "stnId": 232
+      },
+      {
+        "name": "서동탄역",
+        "line": "1호선",
+        "latitude": 37.1956811,
+        "longitude": 127.0519022,
+        "stnId": 233
+      },
+      {
+        "name": "독바위역",
+        "line": "6호선",
+        "latitude": 37.6183962,
+        "longitude": 126.9330556,
+        "stnId": 234
+      },
+      {
+        "name": "보라매역",
+        "line": "7호선",
+        "latitude": 37.4999379,
+        "longitude": 126.9202991,
+        "stnId": 235
+      },
+      {
+        "name": "구로디지털단지역",
+        "line": "2호선",
+        "latitude": 37.4852578,
+        "longitude": 126.9014914,
+        "stnId": 236
+      },
+      {
+        "name": "부천역",
+        "line": "1호선",
+        "latitude": 37.484087,
+        "longitude": 126.7828076,
+        "stnId": 237
+      },
+      {
+        "name": "원인재역",
+        "line": "1호선",
+        "latitude": 37.4123403,
+        "longitude": 126.6878386,
+        "stnId": 238
+      },
+      {
+        "name": "학동역",
+        "line": "7호선",
+        "latitude": 37.5142461,
+        "longitude": 127.0316039,
+        "stnId": 239
+      },
+      {
+        "name": "숭실대입구역",
+        "line": "7호선",
+        "latitude": 37.49638,
+        "longitude": 126.9535194,
+        "stnId": 240
+      },
+      {
+        "name": "성복역",
+        "line": "신분당선",
+        "latitude": 37.313561,
+        "longitude": 127.0803448,
+        "stnId": 241
+      },
+      {
+        "name": "완정역",
+        "line": "2호선",
+        "latitude": 37.5928668,
+        "longitude": 126.6730268,
+        "stnId": 242
+      },
+      {
+        "name": "복정역",
+        "line": "8호선",
+        "latitude": 37.471006,
+        "longitude": 127.1267635,
+        "stnId": 243
+      },
+      {
+        "name": "갈매역",
+        "line": "경춘선",
+        "latitude": 37.6341431,
+        "longitude": 127.1148227,
+        "stnId": 244
+      },
+      {
+        "name": "을지로4가역",
+        "line": "5호선",
+        "latitude": 37.5674259,
+        "longitude": 126.9980668,
+        "stnId": 245
+      },
+      {
+        "name": "수지구청역",
+        "line": "신분당선",
+        "latitude": 37.3224746,
+        "longitude": 127.0946334,
+        "stnId": 246
+      },
+      {
+        "name": "한티역",
+        "line": "분당선",
+        "latitude": 37.4962172,
+        "longitude": 127.0528938,
+        "stnId": 247
+      },
+      {
+        "name": "정발산역",
+        "line": "3호선",
+        "latitude": 37.6597244,
+        "longitude": 126.7732734,
+        "stnId": 248
+      },
+      {
+        "name": "배방역",
+        "line": "1호선",
+        "latitude": 36.7775439,
+        "longitude": 127.0527567,
+        "stnId": 249
+      },
+      {
+        "name": "방배역",
+        "line": "2호선",
+        "latitude": 37.4815253,
+        "longitude": 126.9976531,
+        "stnId": 250
+      },
+      {
+        "name": "충정로역",
+        "line": "5호선",
+        "latitude": 37.5603834,
+        "longitude": 126.9629713,
+        "stnId": 251
+      },
+      {
+        "name": "부평구청역",
+        "line": "7호선",
+        "latitude": 37.50745,
+        "longitude": 126.7212507,
+        "stnId": 252
+      },
+      {
+        "name": "이천역",
+        "line": "경강선",
+        "latitude": 37.2642268,
+        "longitude": 127.442142,
+        "stnId": 253
+      },
+      {
+        "name": "돌곶이역",
+        "line": "6호선",
+        "latitude": 37.6104984,
+        "longitude": 127.0564208,
+        "stnId": 254
+      },
+      {
+        "name": "마두역",
+        "line": "3호선",
+        "latitude": 37.6521923,
+        "longitude": 126.7776581,
+        "stnId": 255
+      },
+      {
+        "name": "까치산역",
+        "line": "5호선",
+        "latitude": 37.5321293,
+        "longitude": 126.8465192,
+        "stnId": 256
+      },
+      {
+        "name": "경기도청북부청사역",
+        "line": "의정부경전철",
+        "latitude": 37.7507741,
+        "longitude": 127.0716097,
+        "stnId": 257
+      },
+      {
+        "name": "마곡나루역",
+        "line": "9호선",
+        "latitude": 37.5667654,
+        "longitude": 126.8273314,
+        "stnId": 258
+      },
+      {
+        "name": "송파역",
+        "line": "8호선",
+        "latitude": 37.4997498,
+        "longitude": 127.1122132,
+        "stnId": 259
+      },
+      {
+        "name": "가좌역",
+        "line": "경의중앙선",
+        "latitude": 37.5686196,
+        "longitude": 126.914861,
+        "stnId": 260
+      },
+      {
+        "name": "신길역",
+        "line": "5호선",
+        "latitude": 37.5176859,
+        "longitude": 126.9150891,
+        "stnId": 261
+      },
+      {
+        "name": "명학역",
+        "line": "1호선",
+        "latitude": 37.3844439,
+        "longitude": 126.9355962,
+        "stnId": 262
+      },
+      {
+        "name": "경인교대입구역",
+        "line": "1호선",
+        "latitude": 37.5381809,
+        "longitude": 126.7226275,
+        "stnId": 263
+      },
+      {
+        "name": "오리역",
+        "line": "분당선",
+        "latitude": 37.3398392,
+        "longitude": 127.108995,
+        "stnId": 264
+      },
+      {
+        "name": "청평역",
+        "line": "경춘선",
+        "latitude": 37.7354881,
+        "longitude": 127.426562,
+        "stnId": 265
+      },
+      {
+        "name": "역촌역",
+        "line": "6호선",
+        "latitude": 37.6063203,
+        "longitude": 126.922899,
+        "stnId": 266
+      },
+      {
+        "name": "굴봉산역",
+        "line": "경춘선",
+        "latitude": 37.8320845,
+        "longitude": 127.5577566,
+        "stnId": 267
+      },
+      {
+        "name": "수진역",
+        "line": "8호선",
+        "latitude": 37.4372525,
+        "longitude": 127.1403878,
+        "stnId": 268
+      },
+      {
+        "name": "세종대왕릉역",
+        "line": "경강선",
+        "latitude": 37.2936423,
+        "longitude": 127.5707758,
+        "stnId": 269
+      },
+      {
+        "name": "신설동역",
+        "line": "우이신설선",
+        "latitude": 37.5764667,
+        "longitude": 127.0232259,
+        "stnId": 270
+      },
+      {
+        "name": "약수역",
+        "line": "6호선",
+        "latitude": 37.5541121,
+        "longitude": 127.0102643,
+        "stnId": 271
+      },
+      {
+        "name": "반포역",
+        "line": "7호선",
+        "latitude": 37.508226,
+        "longitude": 127.011865,
+        "stnId": 272
+      },
+      {
+        "name": "서초역",
+        "line": "2호선",
+        "latitude": 37.4918461,
+        "longitude": 127.0077042,
+        "stnId": 273
+      },
+      {
+        "name": "뚝섬역",
+        "line": "2호선",
+        "latitude": 37.5472442,
+        "longitude": 127.0473267,
+        "stnId": 274
+      },
+      {
+        "name": "삼가역",
+        "line": "에버라인",
+        "latitude": 37.242113,
+        "longitude": 127.1681568,
+        "stnId": 275
+      },
+      {
+        "name": "대흥역",
+        "line": "6호선",
+        "latitude": 37.5476853,
+        "longitude": 126.9423469,
+        "stnId": 276
+      },
+      {
+        "name": "신촌역",
+        "line": "2호선",
+        "latitude": 37.5552545,
+        "longitude": 126.9373734,
+        "stnId": 277
+      },
+      {
+        "name": "마포구청역",
+        "line": "6호선",
+        "latitude": 37.5634238,
+        "longitude": 126.9034927,
+        "stnId": 278
+      },
+      {
+        "name": "공덕역",
+        "line": "6호선",
+        "latitude": 37.5435091,
+        "longitude": 126.9519792,
+        "stnId": 279
+      },
+      {
+        "name": "사당역",
+        "line": "4호선",
+        "latitude": 37.4770008,
+        "longitude": 126.9816814,
+        "stnId": 280
+      },
+      {
+        "name": "인천가좌역",
+        "line": "2호선",
+        "latitude": 37.4900312,
+        "longitude": 126.6752422,
+        "stnId": 281
+      },
+      {
+        "name": "계양역",
+        "line": "공항철도",
+        "latitude": 37.5717567,
+        "longitude": 126.7363861,
+        "stnId": 282
+      },
+      {
+        "name": "고잔역",
+        "line": "4호선",
+        "latitude": 37.3168358,
+        "longitude": 126.8231093,
+        "stnId": 283
+      },
+      {
+        "name": "문정역",
+        "line": "8호선",
+        "latitude": 37.4859771,
+        "longitude": 127.1224849,
+        "stnId": 284
+      },
+      {
+        "name": "남동인더스파크역",
+        "line": "수인선",
+        "latitude": 37.4077818,
+        "longitude": 126.6952487,
+        "stnId": 285
+      },
+      {
+        "name": "부천시청역",
+        "line": "7호선",
+        "latitude": 37.5046839,
+        "longitude": 126.7636198,
+        "stnId": 286
+      },
+      {
+        "name": "동암역",
+        "line": "1호선",
+        "latitude": 37.4708845,
+        "longitude": 126.7029037,
+        "stnId": 287
+      },
+      {
+        "name": "갈산역",
+        "line": "1호선",
+        "latitude": 37.5170673,
+        "longitude": 126.7215619,
+        "stnId": 288
+      },
+      {
+        "name": "선릉역",
+        "line": "2호선",
+        "latitude": 37.5044843,
+        "longitude": 127.0489553,
+        "stnId": 289
+      },
+      {
+        "name": "태릉입구역",
+        "line": "7호선",
+        "latitude": 37.6185051,
+        "longitude": 127.07535,
+        "stnId": 290
+      },
+      {
+        "name": "둔전역",
+        "line": "에버라인",
+        "latitude": 37.2672035,
+        "longitude": 127.2136345,
+        "stnId": 291
+      },
+      {
+        "name": "부천종합운동장역",
+        "line": "7호선",
+        "latitude": 37.5054659,
+        "longitude": 126.7975148,
+        "stnId": 292
+      },
+      {
+        "name": "서현역",
+        "line": "분당선",
+        "latitude": 37.3849367,
+        "longitude": 127.1232667,
+        "stnId": 293
+      },
+      {
+        "name": "삼양사거리역",
+        "line": "우이신설선",
+        "latitude": 37.621343,
+        "longitude": 127.0205102,
+        "stnId": 294
+      },
+      {
+        "name": "명지대역",
+        "line": "에버라인",
+        "latitude": 37.2380491,
+        "longitude": 127.190314,
+        "stnId": 295
+      },
+      {
+        "name": "작전역",
+        "line": "1호선",
+        "latitude": 37.5302869,
+        "longitude": 126.7225358,
+        "stnId": 296
+      },
+      {
+        "name": "서대문역",
+        "line": "5호선",
+        "latitude": 37.565777,
+        "longitude": 126.966666,
+        "stnId": 297
+      },
+      {
+        "name": "운길산역",
+        "line": "경의중앙선",
+        "latitude": 37.5546644,
+        "longitude": 127.3101032,
+        "stnId": 298
+      },
+      {
+        "name": "공릉역",
+        "line": "7호선",
+        "latitude": 37.6257934,
+        "longitude": 127.0729148,
+        "stnId": 299
+      },
+      {
+        "name": "흑석역",
+        "line": "9호선",
+        "latitude": 37.5091718,
+        "longitude": 126.9634078,
+        "stnId": 300
+      },
+      {
+        "name": "새말역",
+        "line": "의정부경전철",
+        "latitude": 37.7488651,
+        "longitude": 127.0637811,
+        "stnId": 301
+      },
+      {
+        "name": "화계역",
+        "line": "우이신설선",
+        "latitude": 37.6341218,
+        "longitude": 127.0175103,
+        "stnId": 302
+      },
+      {
+        "name": "동대입구역",
+        "line": "3호선",
+        "latitude": 37.5590601,
+        "longitude": 127.005049,
+        "stnId": 303
+      },
+      {
+        "name": "노들역",
+        "line": "9호선",
+        "latitude": 37.5129029,
+        "longitude": 126.9532552,
+        "stnId": 304
+      },
+      {
+        "name": "애오개역",
+        "line": "5호선",
+        "latitude": 37.553598,
+        "longitude": 126.9567613,
+        "stnId": 305
+      },
+      {
+        "name": "세마역",
+        "line": "1호선",
+        "latitude": 37.1872948,
+        "longitude": 127.0432895,
+        "stnId": 306
+      },
+      {
+        "name": "상왕십리역",
+        "line": "2호선",
+        "latitude": 37.5645115,
+        "longitude": 127.0288943,
+        "stnId": 307
+      },
+      {
+        "name": "먹골역",
+        "line": "7호선",
+        "latitude": 37.6107837,
+        "longitude": 127.0777221,
+        "stnId": 308
+      },
+      {
+        "name": "삼각지역",
+        "line": "6호선",
+        "latitude": 37.5356015,
+        "longitude": 126.9739614,
+        "stnId": 309
+      },
+      {
+        "name": "상월곡역",
+        "line": "6호선",
+        "latitude": 37.6066085,
+        "longitude": 127.0488816,
+        "stnId": 310
+      },
+      {
+        "name": "창신역",
+        "line": "6호선",
+        "latitude": 37.5793653,
+        "longitude": 127.015297,
+        "stnId": 311
+      },
+      {
+        "name": "신풍역",
+        "line": "7호선",
+        "latitude": 37.5001404,
+        "longitude": 126.9089867,
+        "stnId": 312
+      },
+      {
+        "name": "월곡역",
+        "line": "6호선",
+        "latitude": 37.6019359,
+        "longitude": 127.0415458,
+        "stnId": 313
+      },
+      {
+        "name": "발산역",
+        "line": "5호선",
+        "latitude": 37.5586946,
+        "longitude": 126.8376102,
+        "stnId": 314
+      },
+      {
+        "name": "금릉역",
+        "line": "경의중앙선",
+        "latitude": 37.7513017,
+        "longitude": 126.7654214,
+        "stnId": 315
+      },
+      {
+        "name": "아현역",
+        "line": "2호선",
+        "latitude": 37.5573946,
+        "longitude": 126.9560973,
+        "stnId": 316
+      },
+      {
+        "name": "석수역",
+        "line": "1호선",
+        "latitude": 37.4351664,
+        "longitude": 126.9022456,
+        "stnId": 317
+      },
+      {
+        "name": "하계역",
+        "line": "7호선",
+        "latitude": 37.6359564,
+        "longitude": 127.068234,
+        "stnId": 318
+      },
+      {
+        "name": "북한산우이역",
+        "line": "우이신설선",
+        "latitude": 37.6629066,
+        "longitude": 127.0128019,
+        "stnId": 319
+      },
+      {
+        "name": "송도역",
+        "line": "수인선",
+        "latitude": 37.4297253,
+        "longitude": 126.6544983,
+        "stnId": 320
+      },
+      {
+        "name": "고덕역",
+        "line": "5호선",
+        "latitude": 37.5550575,
+        "longitude": 127.1541255,
+        "stnId": 321
+      },
+      {
+        "name": "구의역",
+        "line": "2호선",
+        "latitude": 37.5371524,
+        "longitude": 127.086153,
+        "stnId": 322
+      },
+      {
+        "name": "지행역",
+        "line": "1호선",
+        "latitude": 37.892368,
+        "longitude": 127.0557617,
+        "stnId": 323
+      },
+      {
+        "name": "풍산역",
+        "line": "경의중앙선",
+        "latitude": 37.6721856,
+        "longitude": 126.7863763,
+        "stnId": 324
+      },
+      {
+        "name": "부개역",
+        "line": "1호선",
+        "latitude": 37.4884924,
+        "longitude": 126.7405703,
+        "stnId": 325
+      },
+      {
+        "name": "강변역",
+        "line": "2호선",
+        "latitude": 37.5351546,
+        "longitude": 127.0946861,
+        "stnId": 326
+      },
+      {
+        "name": "가능역",
+        "line": "1호선",
+        "latitude": 37.7483664,
+        "longitude": 127.04427,
+        "stnId": 327
+      },
+      {
+        "name": "한강진역",
+        "line": "6호선",
+        "latitude": 37.5395247,
+        "longitude": 127.0017552,
+        "stnId": 328
+      },
+      {
+        "name": "구일역",
+        "line": "1호선",
+        "latitude": 37.4962837,
+        "longitude": 126.86962,
+        "stnId": 329
+      },
+      {
+        "name": "남부터미널역",
+        "line": "3호선",
+        "latitude": 37.4849165,
+        "longitude": 127.0162875,
+        "stnId": 330
+      },
+      {
+        "name": "상록수역",
+        "line": "4호선",
+        "latitude": 37.3028768,
+        "longitude": 126.8663929,
+        "stnId": 331
+      },
+      {
+        "name": "운동장송담대역",
+        "line": "에버라인",
+        "latitude": 37.2378962,
+        "longitude": 127.2090584,
+        "stnId": 332
+      },
+      {
+        "name": "개롱역",
+        "line": "5호선",
+        "latitude": 37.4979729,
+        "longitude": 127.1350904,
+        "stnId": 333
+      },
+      {
+        "name": "양재역",
+        "line": "3호선",
+        "latitude": 37.4845485,
+        "longitude": 127.0339542,
+        "stnId": 334
+      },
+      {
+        "name": "쌍용(나사렛대)역",
+        "line": "1호선",
+        "latitude": 36.79375,
+        "longitude": 127.1213669,
+        "stnId": 335
+      },
+      {
+        "name": "군포역",
+        "line": "1호선",
+        "latitude": 37.3537429,
+        "longitude": 126.9485358,
+        "stnId": 336
+      },
+      {
+        "name": "염창역",
+        "line": "9호선",
+        "latitude": 37.5469721,
+        "longitude": 126.8748537,
+        "stnId": 337
+      },
+      {
+        "name": "효창공원앞역",
+        "line": "6호선",
+        "latitude": 37.5392938,
+        "longitude": 126.9613508,
+        "stnId": 338
+      },
+      {
+        "name": "죽전역",
+        "line": "분당선",
+        "latitude": 37.3245808,
+        "longitude": 127.1073922,
+        "stnId": 339
+      },
+      {
+        "name": "용산역",
+        "line": "1호선",
+        "latitude": 37.5296527,
+        "longitude": 126.9644372,
+        "stnId": 340
+      },
+      {
+        "name": "인덕원역",
+        "line": "4호선",
+        "latitude": 37.4019097,
+        "longitude": 126.9768351,
+        "stnId": 341
+      },
+      {
+        "name": "경기광주역",
+        "line": "경강선",
+        "latitude": 37.3989831,
+        "longitude": 127.2532161,
+        "stnId": 342
+      },
+      {
+        "name": "주안역",
+        "line": "2호선",
+        "latitude": 37.4650782,
+        "longitude": 126.6789604,
+        "stnId": 343
+      },
+      {
+        "name": "구산역",
+        "line": "6호선",
+        "latitude": 37.611333,
+        "longitude": 126.9173109,
+        "stnId": 344
+      },
+      {
+        "name": "이수역",
+        "line": "7호선",
+        "latitude": 37.4853937,
+        "longitude": 126.9821557,
+        "stnId": 345
+      },
+      {
+        "name": "종로5가역",
+        "line": "1호선",
+        "latitude": 37.5709997,
+        "longitude": 127.0019358,
+        "stnId": 346
+      },
+      {
+        "name": "남한산성입구역",
+        "line": "8호선",
+        "latitude": 37.451548,
+        "longitude": 127.1598341,
+        "stnId": 347
+      },
+      {
+        "name": "경찰병원역",
+        "line": "3호선",
+        "latitude": 37.4957033,
+        "longitude": 127.1242034,
+        "stnId": 348
+      },
+      {
+        "name": "금호역",
+        "line": "3호선",
+        "latitude": 37.5482655,
+        "longitude": 127.0158075,
+        "stnId": 349
+      },
+      {
+        "name": "남구로역",
+        "line": "7호선",
+        "latitude": 37.4860982,
+        "longitude": 126.8872884,
+        "stnId": 350
+      },
+      {
+        "name": "달월역",
+        "line": "수인선",
+        "latitude": 37.3800046,
+        "longitude": 126.7454449,
+        "stnId": 351
+      },
+      {
+        "name": "도림천역",
+        "line": "2호선",
+        "latitude": 37.5144733,
+        "longitude": 126.8826372,
+        "stnId": 352
+      },
+      {
+        "name": "임학역",
+        "line": "1호선",
+        "latitude": 37.5450838,
+        "longitude": 126.7386692,
+        "stnId": 353
+      },
+      {
+        "name": "서빙고역",
+        "line": "경의중앙선",
+        "latitude": 37.519615,
+        "longitude": 126.9883773,
+        "stnId": 354
+      },
+      {
+        "name": "양정역",
+        "line": "경의중앙선",
+        "latitude": 37.6042764,
+        "longitude": 127.1946242,
+        "stnId": 355
+      },
+      {
+        "name": "만수역",
+        "line": "2호선",
+        "latitude": 37.4549702,
+        "longitude": 126.7317962,
+        "stnId": 356
+      },
+      {
+        "name": "아차산역",
+        "line": "5호선",
+        "latitude": 37.5520378,
+        "longitude": 127.0896497,
+        "stnId": 357
+      },
+      {
+        "name": "흥선역",
+        "line": "의정부경전철",
+        "latitude": 37.7432806,
+        "longitude": 127.0371189,
+        "stnId": 358
+      },
+      {
+        "name": "수내역",
+        "line": "분당선",
+        "latitude": 37.3784448,
+        "longitude": 127.11423,
+        "stnId": 359
+      },
+      {
+        "name": "강매역",
+        "line": "경의중앙선",
+        "latitude": 37.6123191,
+        "longitude": 126.844479,
+        "stnId": 360
+      },
+      {
+        "name": "신정네거리역",
+        "line": "2호선",
+        "latitude": 37.5202157,
+        "longitude": 126.8528111,
+        "stnId": 361
+      },
+      {
+        "name": "정자역",
+        "line": "신분당선",
+        "latitude": 37.3674984,
+        "longitude": 127.108454,
+        "stnId": 362
+      },
+      {
+        "name": "남춘천역",
+        "line": "경춘선",
+        "latitude": 37.864071,
+        "longitude": 127.7237844,
+        "stnId": 363
+      },
+      {
+        "name": "검단오류(검단산업단지)역",
+        "line": "2호선",
+        "latitude": 37.59492,
+        "longitude": 126.6279793,
+        "stnId": 364
+      },
+      {
+        "name": "무악재역",
+        "line": "3호선",
+        "latitude": 37.5826704,
+        "longitude": 126.9501858,
+        "stnId": 365
+      },
+      {
+        "name": "안양역",
+        "line": "1호선",
+        "latitude": 37.4019427,
+        "longitude": 126.922665,
+        "stnId": 366
+      },
+      {
+        "name": "아신역",
+        "line": "경의중앙선",
+        "latitude": 37.5139615,
+        "longitude": 127.4432568,
+        "stnId": 367
+      },
+      {
+        "name": "용마산역",
+        "line": "7호선",
+        "latitude": 37.5738035,
+        "longitude": 127.086838,
+        "stnId": 368
+      },
+      {
+        "name": "광흥창역",
+        "line": "6호선",
+        "latitude": 37.547492,
+        "longitude": 126.9318704,
+        "stnId": 369
+      },
+      {
+        "name": "총신대입구역(이수역)",
+        "line": "4호선",
+        "latitude": 37.4866644,
+        "longitude": 126.9821837,
+        "stnId": 370
+      },
+      {
+        "name": "수원역",
+        "line": "1호선",
+        "latitude": 37.2664048,
+        "longitude": 126.9999439,
+        "stnId": 371
+      },
+      {
+        "name": "시청용인대역",
+        "line": "에버라인",
+        "latitude": 37.2394302,
+        "longitude": 127.1788708,
+        "stnId": 372
+      },
+      {
+        "name": "수리산역",
+        "line": "4호선",
+        "latitude": 37.3503108,
+        "longitude": 126.9255469,
+        "stnId": 373
+      },
+      {
+        "name": "석계역",
+        "line": "6호선",
+        "latitude": 37.6149622,
+        "longitude": 127.0659584,
+        "stnId": 374
+      },
+      {
+        "name": "인천터미널역",
+        "line": "1호선",
+        "latitude": 37.4418537,
+        "longitude": 126.699664,
+        "stnId": 375
+      },
+      {
+        "name": "주엽역",
+        "line": "3호선",
+        "latitude": 37.6701497,
+        "longitude": 126.7612568,
+        "stnId": 376
+      },
+      {
+        "name": "상현역",
+        "line": "신분당선",
+        "latitude": 37.2978858,
+        "longitude": 127.0692787,
+        "stnId": 377
+      },
+      {
+        "name": "망월사역",
+        "line": "1호선",
+        "latitude": 37.7105035,
+        "longitude": 127.0473757,
+        "stnId": 378
+      },
+      {
+        "name": "시청역",
+        "line": "2호선",
+        "latitude": 37.5635454,
+        "longitude": 126.975288,
+        "stnId": 379
+      },
+      {
+        "name": "이매역",
+        "line": "경강선",
+        "latitude": 37.3947373,
+        "longitude": 127.1277155,
+        "stnId": 380
+      },
+      {
+        "name": "여주역",
+        "line": "경강선",
+        "latitude": 37.2828796,
+        "longitude": 127.6285881,
+        "stnId": 381
+      },
+      {
+        "name": "운연(서창)역",
+        "line": "2호선",
+        "latitude": 37.439695,
+        "longitude": 126.7596037,
+        "stnId": 382
+      },
+      {
+        "name": "관악역",
+        "line": "1호선",
+        "latitude": 37.4195908,
+        "longitude": 126.9084942,
+        "stnId": 383
+      },
+      {
+        "name": "봉화산(서울의료원)역",
+        "line": "6호선",
+        "latitude": 37.6173764,
+        "longitude": 127.0913129,
+        "stnId": 384
+      },
+      {
+        "name": "419민주묘지역",
+        "line": "우이신설선",
+        "latitude": 37.6495156,
+        "longitude": 127.0136815,
+        "stnId": 385
+      },
+      {
+        "name": "문산역",
+        "line": "경의중앙선",
+        "latitude": 37.8544327,
+        "longitude": 126.7874773,
+        "stnId": 386
+      },
+      {
+        "name": "증산역",
+        "line": "6호선",
+        "latitude": 37.5839438,
+        "longitude": 126.9097024,
+        "stnId": 387
+      },
+      {
+        "name": "우장산역",
+        "line": "5호선",
+        "latitude": 37.5487978,
+        "longitude": 126.8363492,
+        "stnId": 388
+      },
+      {
+        "name": "신길온천역",
+        "line": "4호선",
+        "latitude": 37.3374974,
+        "longitude": 126.7673219,
+        "stnId": 389
+      },
+      {
+        "name": "화곡역",
+        "line": "5호선",
+        "latitude": 37.5415849,
+        "longitude": 126.8404556,
+        "stnId": 390
+      },
+      {
+        "name": "목동역",
+        "line": "5호선",
+        "latitude": 37.5260844,
+        "longitude": 126.8643176,
+        "stnId": 391
+      },
+      {
+        "name": "정왕역",
+        "line": "4호선",
+        "latitude": 37.3518283,
+        "longitude": 126.7428546,
+        "stnId": 392
+      },
+      {
+        "name": "성균관대역",
+        "line": "1호선",
+        "latitude": 37.300352,
+        "longitude": 126.9708677,
+        "stnId": 393
+      },
+      {
+        "name": "낙성대역",
+        "line": "2호선",
+        "latitude": 37.4771217,
+        "longitude": 126.9634318,
+        "stnId": 394
+      },
+      {
+        "name": "춘천역",
+        "line": "경춘선",
+        "latitude": 37.8843903,
+        "longitude": 127.7166264,
+        "stnId": 395
+      },
+      {
+        "name": "문래역",
+        "line": "2호선",
+        "latitude": 37.5180028,
+        "longitude": 126.8948244,
+        "stnId": 396
+      },
+      {
+        "name": "강남역",
+        "line": "2호선",
+        "latitude": 37.4979496,
+        "longitude": 127.0276409,
+        "stnId": 397
+      },
+      {
+        "name": "화전역",
+        "line": "경의중앙선",
+        "latitude": 37.6032838,
+        "longitude": 126.8679595,
+        "stnId": 398
+      },
+      {
+        "name": "가양역",
+        "line": "9호선",
+        "latitude": 37.5615603,
+        "longitude": 126.8542609,
+        "stnId": 399
+      },
+      {
+        "name": "간석역",
+        "line": "1호선",
+        "latitude": 37.4646982,
+        "longitude": 126.6934247,
+        "stnId": 400
+      },
+      {
+        "name": "교대역",
+        "line": "3호선",
+        "latitude": 37.4929876,
+        "longitude": 127.0138296,
+        "stnId": 401
+      },
+      {
+        "name": "서울대입구역",
+        "line": "2호선",
+        "latitude": 37.4812173,
+        "longitude": 126.9527244,
+        "stnId": 402
+      },
+      {
+        "name": "직산역",
+        "line": "1호선",
+        "latitude": 36.8709266,
+        "longitude": 127.1437814,
+        "stnId": 403
+      },
+      {
+        "name": "덕소역",
+        "line": "경의중앙선",
+        "latitude": 37.5869011,
+        "longitude": 127.2088515,
+        "stnId": 404
+      },
+      {
+        "name": "잠실역",
+        "line": "8호선",
+        "latitude": 37.5147583,
+        "longitude": 127.1046265,
+        "stnId": 405
+      },
+      {
+        "name": "수서역",
+        "line": "3호선",
+        "latitude": 37.4873067,
+        "longitude": 127.1015501,
+        "stnId": 406
+      },
+      {
+        "name": "신원역",
+        "line": "경의중앙선",
+        "latitude": 37.5259267,
+        "longitude": 127.3727626,
+        "stnId": 407
+      },
+      {
+        "name": "곤지암역",
+        "line": "경강선",
+        "latitude": 37.3505312,
+        "longitude": 127.346195,
+        "stnId": 408
+      },
+      {
+        "name": "충무로역",
+        "line": "4호선",
+        "latitude": 37.5612567,
+        "longitude": 126.9941764,
+        "stnId": 409
+      },
+      {
+        "name": "개화산역",
+        "line": "5호선",
+        "latitude": 37.5724622,
+        "longitude": 126.8068543,
+        "stnId": 410
+      },
+      {
+        "name": "신당역",
+        "line": "6호선",
+        "latitude": 37.5660823,
+        "longitude": 127.0161848,
+        "stnId": 411
+      },
+      {
+        "name": "신림역",
+        "line": "2호선",
+        "latitude": 37.4842819,
+        "longitude": 126.9296943,
+        "stnId": 412
+      },
+      {
+        "name": "별내역",
+        "line": "경춘선",
+        "latitude": 37.6422275,
+        "longitude": 127.1272252,
+        "stnId": 413
+      },
+      {
+        "name": "월곶역",
+        "line": "수인선",
+        "latitude": 37.3913606,
+        "longitude": 126.7431553,
+        "stnId": 414
+      },
+      {
+        "name": "신내역",
+        "line": "경춘선",
+        "latitude": 37.6128636,
+        "longitude": 127.1032948,
+        "stnId": 415
+      },
+      {
+        "name": "문학경기장역",
+        "line": "1호선",
+        "latitude": 37.4349553,
+        "longitude": 126.6983482,
+        "stnId": 416
+      },
+      {
+        "name": "수락산역",
+        "line": "7호선",
+        "latitude": 37.6778869,
+        "longitude": 127.0553084,
+        "stnId": 417
+      },
+      {
+        "name": "남성역",
+        "line": "7호선",
+        "latitude": 37.484889,
+        "longitude": 126.9706856,
+        "stnId": 418
+      },
+      {
+        "name": "검단사거리역",
+        "line": "2호선",
+        "latitude": 37.6017547,
+        "longitude": 126.656641,
+        "stnId": 419
+      },
+      {
+        "name": "인천대공원역",
+        "line": "2호선",
+        "latitude": 37.4484474,
+        "longitude": 126.7530513,
+        "stnId": 420
+      },
+      {
+        "name": "한남역",
+        "line": "경의중앙선",
+        "latitude": 37.5293677,
+        "longitude": 127.0089956,
+        "stnId": 421
+      },
+      {
+        "name": "오산대역",
+        "line": "1호선",
+        "latitude": 37.1694126,
+        "longitude": 127.0630848,
+        "stnId": 422
+      },
+      {
+        "name": "응봉역",
+        "line": "경의중앙선",
+        "latitude": 37.5499603,
+        "longitude": 127.0344925,
+        "stnId": 423
+      },
+      {
+        "name": "신둔도예촌역",
+        "line": "경강선",
+        "latitude": 37.315501,
+        "longitude": 127.4052665,
+        "stnId": 424
+      },
+      {
+        "name": "경전철의정부역",
+        "line": "의정부경전철",
+        "latitude": 37.7373842,
+        "longitude": 127.0433105,
+        "stnId": 425
+      },
+      {
+        "name": "오금역",
+        "line": "5호선",
+        "latitude": 37.5019945,
+        "longitude": 127.1281111,
+        "stnId": 426
+      },
+      {
+        "name": "동수역",
+        "line": "1호선",
+        "latitude": 37.485416,
+        "longitude": 126.7184035,
+        "stnId": 427
+      },
+      {
+        "name": "사평역",
+        "line": "9호선",
+        "latitude": 37.5044569,
+        "longitude": 127.0147761,
+        "stnId": 428
+      },
+      {
+        "name": "수원시청역",
+        "line": "분당선",
+        "latitude": 37.2619479,
+        "longitude": 127.0307466,
+        "stnId": 429
+      },
+      {
+        "name": "상동역",
+        "line": "7호선",
+        "latitude": 37.5058175,
+        "longitude": 126.7531619,
+        "stnId": 430
+      },
+      {
+        "name": "동대문역사문화공원역",
+        "line": "5호선",
+        "latitude": 37.5647028,
+        "longitude": 127.0053023,
+        "stnId": 431
+      },
+      {
+        "name": "신흥역",
+        "line": "8호선",
+        "latitude": 37.4409534,
+        "longitude": 127.1475102,
+        "stnId": 432
+      },
+      {
+        "name": "서부여성회관역",
+        "line": "2호선",
+        "latitude": 37.5003007,
+        "longitude": 126.6758526,
+        "stnId": 433
+      },
+      {
+        "name": "남동구청역",
+        "line": "2호선",
+        "latitude": 37.4481744,
+        "longitude": 126.7366687,
+        "stnId": 434
+      },
+      {
+        "name": "영등포시장역",
+        "line": "5호선",
+        "latitude": 37.5227208,
+        "longitude": 126.9051062,
+        "stnId": 435
+      },
+      {
+        "name": "행당역",
+        "line": "5호선",
+        "latitude": 37.5574084,
+        "longitude": 127.0296542,
+        "stnId": 436
+      },
+      {
+        "name": "용문역",
+        "line": "경의중앙선",
+        "latitude": 37.4820909,
+        "longitude": 127.594263,
+        "stnId": 437
+      },
+      {
+        "name": "가락시장역",
+        "line": "8호선",
+        "latitude": 37.4924731,
+        "longitude": 127.1187564,
+        "stnId": 438
+      },
+      {
+        "name": "온양온천역",
+        "line": "1호선",
+        "latitude": 36.7805542,
+        "longitude": 127.0031018,
+        "stnId": 439
+      },
+      {
+        "name": "아시아드경기장(공촌사거리)역",
+        "line": "2호선",
+        "latitude": 37.5513127,
+        "longitude": 126.6771131,
+        "stnId": 440
+      },
+      {
+        "name": "여의도역",
+        "line": "9호선",
+        "latitude": 37.5214289,
+        "longitude": 126.9243679,
+        "stnId": 441
+      },
+      {
+        "name": "삼성중앙역",
+        "line": "9호선",
+        "latitude": 37.5128018,
+        "longitude": 127.0524244,
+        "stnId": 442
+      },
+      {
+        "name": "신연수역",
+        "line": "1호선",
+        "latitude": 37.4180582,
+        "longitude": 126.69402,
+        "stnId": 443
+      },
+      {
+        "name": "서정리역",
+        "line": "1호선",
+        "latitude": 37.0564667,
+        "longitude": 127.0528475,
+        "stnId": 444
+      },
+      {
+        "name": "강남구청역",
+        "line": "7호선",
+        "latitude": 37.5171725,
+        "longitude": 127.0413059,
+        "stnId": 445
+      },
+      {
+        "name": "신금호역",
+        "line": "5호선",
+        "latitude": 37.5544792,
+        "longitude": 127.0208076,
+        "stnId": 446
+      },
+      {
+        "name": "동춘역",
+        "line": "1호선",
+        "latitude": 37.404686,
+        "longitude": 126.6809579,
+        "stnId": 447
+      },
+      {
+        "name": "보평역",
+        "line": "에버라인",
+        "latitude": 37.2589815,
+        "longitude": 127.2184885,
+        "stnId": 448
+      },
+      {
+        "name": "영등포역",
+        "line": "1호선",
+        "latitude": 37.5157682,
+        "longitude": 126.9074247,
+        "stnId": 449
+      },
+      {
+        "name": "녹번역",
+        "line": "3호선",
+        "latitude": 37.6008776,
+        "longitude": 126.9357744,
+        "stnId": 450
+      },
+      {
+        "name": "봉은사역",
+        "line": "9호선",
+        "latitude": 37.5142251,
+        "longitude": 127.0602794,
+        "stnId": 451
+      },
+      {
+        "name": "예술회관역",
+        "line": "1호선",
+        "latitude": 37.4493111,
+        "longitude": 126.7010156,
+        "stnId": 452
+      },
+      {
+        "name": "파라다이스시티역",
+        "line": "자기부상철도",
+        "latitude": 37.4372083,
+        "longitude": 126.4598306,
+        "stnId": 453
+      },
+      {
+        "name": "화정역",
+        "line": "3호선",
+        "latitude": 37.6346024,
+        "longitude": 126.8326687,
+        "stnId": 454
+      },
+      {
+        "name": "동묘앞역",
+        "line": "6호선",
+        "latitude": 37.5722684,
+        "longitude": 127.015696,
+        "stnId": 455
+      },
+      {
+        "name": "봉명역",
+        "line": "1호선",
+        "latitude": 36.8015824,
+        "longitude": 127.1363274,
+        "stnId": 456
+      },
+      {
+        "name": "삼동역",
+        "line": "경강선",
+        "latitude": 37.4087331,
+        "longitude": 127.2034623,
+        "stnId": 457
+      },
+      {
+        "name": "석바위시장역",
+        "line": "2호선",
+        "latitude": 37.4576767,
+        "longitude": 126.6923826,
+        "stnId": 458
+      },
+      {
+        "name": "이태원역",
+        "line": "6호선",
+        "latitude": 37.5345443,
+        "longitude": 126.9945914,
+        "stnId": 459
+      },
+      {
+        "name": "합정역",
+        "line": "6호선",
+        "latitude": 37.548956,
+        "longitude": 126.9135615,
+        "stnId": 460
+      },
+      {
+        "name": "성환역",
+        "line": "1호선",
+        "latitude": 36.9157903,
+        "longitude": 127.1270079,
+        "stnId": 461
+      },
+      {
+        "name": "국수역",
+        "line": "경의중앙선",
+        "latitude": 37.5161987,
+        "longitude": 127.3995182,
+        "stnId": 462
+      },
+      {
+        "name": "방화역",
+        "line": "5호선",
+        "latitude": 37.5776313,
+        "longitude": 126.81284,
+        "stnId": 463
+      },
+      {
+        "name": "마포역",
+        "line": "5호선",
+        "latitude": 37.5397171,
+        "longitude": 126.9460576,
+        "stnId": 464
+      },
+      {
+        "name": "제기동역",
+        "line": "1호선",
+        "latitude": 37.5781665,
+        "longitude": 127.0349101,
+        "stnId": 465
+      },
+      {
+        "name": "홍제역",
+        "line": "3호선",
+        "latitude": 37.5887974,
+        "longitude": 126.94411,
+        "stnId": 466
+      },
+      {
+        "name": "신방화역",
+        "line": "9호선",
+        "latitude": 37.5674869,
+        "longitude": 126.8174494,
+        "stnId": 467
+      },
+      {
+        "name": "상일동역",
+        "line": "5호선",
+        "latitude": 37.5566067,
+        "longitude": 127.1654489,
+        "stnId": 468
+      },
+      {
+        "name": "제물포역",
+        "line": "1호선",
+        "latitude": 37.4668242,
+        "longitude": 126.6571804,
+        "stnId": 469
+      },
+      {
+        "name": "도원역",
+        "line": "1호선",
+        "latitude": 37.4686157,
+        "longitude": 126.6428369,
+        "stnId": 470
+      },
+      {
+        "name": "신반포역",
+        "line": "9호선",
+        "latitude": 37.5034974,
+        "longitude": 126.9960365,
+        "stnId": 471
+      },
+      {
+        "name": "오산역",
+        "line": "1호선",
+        "latitude": 37.1454808,
+        "longitude": 127.0667228,
+        "stnId": 472
+      },
+      {
+        "name": "중앙역",
+        "line": "4호선",
+        "latitude": 37.316069,
+        "longitude": 126.8385434,
+        "stnId": 473
+      },
+      {
+        "name": "과천역",
+        "line": "4호선",
+        "latitude": 37.4332181,
+        "longitude": 126.996421,
+        "stnId": 474
+      },
+      {
+        "name": "시민공원(문화창작지대)역",
+        "line": "2호선",
+        "latitude": 37.4583893,
+        "longitude": 126.6810899,
+        "stnId": 475
+      },
+      {
+        "name": "학여울역",
+        "line": "3호선",
+        "latitude": 37.4966907,
+        "longitude": 127.0705639,
+        "stnId": 476
+      },
+      {
+        "name": "증미역",
+        "line": "9호선",
+        "latitude": 37.5581437,
+        "longitude": 126.8606174,
+        "stnId": 477
+      },
+      {
+        "name": "대야미역",
+        "line": "4호선",
+        "latitude": 37.3283115,
+        "longitude": 126.9171714,
+        "stnId": 478
+      },
+      {
+        "name": "가정(루원시티)역",
+        "line": "2호선",
+        "latitude": 37.5247219,
+        "longitude": 126.6753536,
+        "stnId": 479
+      },
+      {
+        "name": "양주역",
+        "line": "1호선",
+        "latitude": 37.7742925,
+        "longitude": 127.0447428,
+        "stnId": 480
+      },
+      {
+        "name": "장암역",
+        "line": "7호선",
+        "latitude": 37.7002326,
+        "longitude": 127.0530749,
+        "stnId": 481
+      },
+      {
+        "name": "석천사거리역",
+        "line": "2호선",
+        "latitude": 37.4567618,
+        "longitude": 126.710822,
+        "stnId": 482
+      },
+      {
+        "name": "개화역",
+        "line": "9호선",
+        "latitude": 37.5785835,
+        "longitude": 126.7974054,
+        "stnId": 483
+      },
+      {
+        "name": "소래포구역",
+        "line": "수인선",
+        "latitude": 37.4009714,
+        "longitude": 126.7335416,
+        "stnId": 484
+      },
+      {
+        "name": "올림픽공원역",
+        "line": "5호선",
+        "latitude": 37.5166318,
+        "longitude": 127.1311085,
+        "stnId": 485
+      },
+      {
+        "name": "광운대역",
+        "line": "1호선",
+        "latitude": 37.6238396,
+        "longitude": 127.0616787,
+        "stnId": 486
+      },
+      {
+        "name": "상천역",
+        "line": "경춘선",
+        "latitude": 37.7700398,
+        "longitude": 127.4544347,
+        "stnId": 487
+      },
+      {
+        "name": "모란역",
+        "line": "8호선",
+        "latitude": 37.4339527,
+        "longitude": 127.1302557,
+        "stnId": 488
+      },
+      {
+        "name": "강동구청역",
+        "line": "8호선",
+        "latitude": 37.5305201,
+        "longitude": 127.1205499,
+        "stnId": 489
+      },
+      {
+        "name": "천왕역",
+        "line": "7호선",
+        "latitude": 37.4867577,
+        "longitude": 126.8387245,
+        "stnId": 490
+      },
+      {
+        "name": "동막역",
+        "line": "1호선",
+        "latitude": 37.3981344,
+        "longitude": 126.6736073,
+        "stnId": 491
+      },
+      {
+        "name": "주안국가산단(인천J밸리)역",
+        "line": "2호선",
+        "latitude": 37.4739607,
+        "longitude": 126.6812348,
+        "stnId": 492
+      },
+      {
+        "name": "대화역",
+        "line": "3호선",
+        "latitude": 37.6761578,
+        "longitude": 126.7474404,
+        "stnId": 493
+      },
+      {
+        "name": "백석역",
+        "line": "3호선",
+        "latitude": 37.6429838,
+        "longitude": 126.7881314,
+        "stnId": 494
+      },
+      {
+        "name": "한성대입구역",
+        "line": "4호선",
+        "latitude": 37.5883784,
+        "longitude": 127.0059276,
+        "stnId": 495
+      },
+      {
+        "name": "산성역",
+        "line": "8호선",
+        "latitude": 37.4566414,
+        "longitude": 127.1500678,
+        "stnId": 496
+      },
+      {
+        "name": "용답역",
+        "line": "2호선",
+        "latitude": 37.5621758,
+        "longitude": 127.0508495,
+        "stnId": 497
+      },
+      {
+        "name": "탑석역",
+        "line": "의정부경전철",
+        "latitude": 37.7334652,
+        "longitude": 127.0889338,
+        "stnId": 498
+      },
+      {
+        "name": "서울역",
+        "line": "공항철도",
+        "latitude": 37.553441,
+        "longitude": 126.9696769,
+        "stnId": 499
+      },
+      {
+        "name": "백마역",
+        "line": "경의중앙선",
+        "latitude": 37.6583564,
+        "longitude": 126.7944212,
+        "stnId": 500
+      },
+      {
+        "name": "기흥역",
+        "line": "에버라인",
+        "latitude": 37.2754703,
+        "longitude": 127.1168682,
+        "stnId": 501
+      },
+      {
+        "name": "운정역",
+        "line": "경의중앙선",
+        "latitude": 37.7254515,
+        "longitude": 126.767098,
+        "stnId": 502
+      },
+      {
+        "name": "녹양역",
+        "line": "1호선",
+        "latitude": 37.7594238,
+        "longitude": 127.0422894,
+        "stnId": 503
+      },
+      {
+        "name": "인천역",
+        "line": "1호선",
+        "latitude": 37.4763801,
+        "longitude": 126.6169538,
+        "stnId": 504
+      },
+      {
+        "name": "건대입구역",
+        "line": "7호선",
+        "latitude": 37.5407923,
+        "longitude": 127.0710699,
+        "stnId": 505
+      },
+      {
+        "name": "의정부중앙역",
+        "line": "의정부경전철",
+        "latitude": 37.7436796,
+        "longitude": 127.0496631,
+        "stnId": 506
+      },
+      {
+        "name": "양천향교역",
+        "line": "9호선",
+        "latitude": 37.5681167,
+        "longitude": 126.841924,
+        "stnId": 507
+      },
+      {
+        "name": "샛강역",
+        "line": "9호선",
+        "latitude": 37.5167484,
+        "longitude": 126.928892,
+        "stnId": 508
+      },
+      {
+        "name": "신창(순천향대)역",
+        "line": "1호선",
+        "latitude": 36.7696847,
+        "longitude": 126.9514923,
+        "stnId": 509
+      },
+      {
+        "name": "마장역",
+        "line": "5호선",
+        "latitude": 37.5661401,
+        "longitude": 127.0429774,
+        "stnId": 510
+      },
+      {
+        "name": "능곡역",
+        "line": "경의중앙선",
+        "latitude": 37.6187533,
+        "longitude": 126.8208639,
+        "stnId": 511
+      },
+      {
+        "name": "매탄권선역",
+        "line": "분당선",
+        "latitude": 37.252962,
+        "longitude": 127.0404657,
+        "stnId": 512
+      },
+      {
+        "name": "소사역",
+        "line": "1호선",
+        "latitude": 37.4827681,
+        "longitude": 126.7956735,
+        "stnId": 513
+      },
+      {
+        "name": "광교중앙(아주대)역",
+        "line": "신분당선",
+        "latitude": 37.2884108,
+        "longitude": 127.0516552,
+        "stnId": 514
+      },
+      {
+        "name": "동오역",
+        "line": "의정부경전철",
+        "latitude": 37.74527,
+        "longitude": 127.0569842,
+        "stnId": 515
+      },
+      {
+        "name": "소요산역",
+        "line": "1호선",
+        "latitude": 37.9486141,
+        "longitude": 127.0610281,
+        "stnId": 516
+      },
+      {
+        "name": "김포공항역",
+        "line": "5호선",
+        "latitude": 37.5622791,
+        "longitude": 126.8013685,
+        "stnId": 517
+      },
+      {
+        "name": "옥수역",
+        "line": "3호선",
+        "latitude": 37.5416736,
+        "longitude": 127.0173425,
+        "stnId": 518
+      },
+      {
+        "name": "초월역",
+        "line": "경강선",
+        "latitude": 37.3733985,
+        "longitude": 127.3000097,
+        "stnId": 519
+      },
+      {
+        "name": "역삼역",
+        "line": "2호선",
+        "latitude": 37.500819,
+        "longitude": 127.0369569,
+        "stnId": 520
+      },
+      {
+        "name": "망우역",
+        "line": "경춘선",
+        "latitude": 37.5999894,
+        "longitude": 127.0917166,
+        "stnId": 521
+      },
+      {
+        "name": "잠실새내역",
+        "line": "2호선",
+        "latitude": 37.5116303,
+        "longitude": 127.0856041,
+        "stnId": 522
+      },
+      {
+        "name": "경복궁역",
+        "line": "3호선",
+        "latitude": 37.575848,
+        "longitude": 126.9736027,
+        "stnId": 523
+      },
+      {
+        "name": "구로역",
+        "line": "1호선",
+        "latitude": 37.5029185,
+        "longitude": 126.8822776,
+        "stnId": 524
+      },
+      {
+        "name": "오빈역",
+        "line": "경의중앙선",
+        "latitude": 37.5060647,
+        "longitude": 127.4740693,
+        "stnId": 525
+      },
+      {
+        "name": "청라국제도시역",
+        "line": "공항철도",
+        "latitude": 37.5564177,
+        "longitude": 126.6246898,
+        "stnId": 526
+      },
+      {
+        "name": "중랑역",
+        "line": "경춘선",
+        "latitude": 37.5949583,
+        "longitude": 127.0761732,
+        "stnId": 527
+      },
+      {
+        "name": "오류동역",
+        "line": "1호선",
+        "latitude": 37.4944107,
+        "longitude": 126.8445658,
+        "stnId": 528
+      },
+      {
+        "name": "상갈역",
+        "line": "분당선",
+        "latitude": 37.2618028,
+        "longitude": 127.1087299,
+        "stnId": 529
+      },
+      {
+        "name": "대모산입구역",
+        "line": "분당선",
+        "latitude": 37.4913553,
+        "longitude": 127.072722,
+        "stnId": 530
+      },
+      {
+        "name": "고속터미널역",
+        "line": "9호선",
+        "latitude": 37.5060091,
+        "longitude": 127.0043048,
+        "stnId": 531
+      },
+      {
+        "name": "동두천역",
+        "line": "1호선",
+        "latitude": 37.9275716,
+        "longitude": 127.0548459,
+        "stnId": 532
+      },
+      {
+        "name": "판교역",
+        "line": "경강선",
+        "latitude": 37.3947538,
+        "longitude": 127.11056,
+        "stnId": 533
+      },
+      {
+        "name": "가평역",
+        "line": "경춘선",
+        "latitude": 37.8145181,
+        "longitude": 127.5107038,
+        "stnId": 534
+      },
+      {
+        "name": "종로3가역",
+        "line": "5호선",
+        "latitude": 37.5725862,
+        "longitude": 126.9903451,
+        "stnId": 535
+      },
+      {
+        "name": "지식정보단지역",
+        "line": "1호선",
+        "latitude": 37.3780194,
+        "longitude": 126.6454294,
+        "stnId": 536
+      },
+      {
+        "name": "모래내시장역",
+        "line": "2호선",
+        "latitude": 37.4558752,
+        "longitude": 126.7196193,
+        "stnId": 537
+      },
+      {
+        "name": "동천역",
+        "line": "신분당선",
+        "latitude": 37.3377924,
+        "longitude": 127.1028461,
+        "stnId": 538
+      },
+      {
+        "name": "영통역",
+        "line": "분당선",
+        "latitude": 37.2515318,
+        "longitude": 127.0713475,
+        "stnId": 539
+      },
+      {
+        "name": "어룡역",
+        "line": "의정부경전철",
+        "latitude": 37.7426991,
+        "longitude": 127.085224,
+        "stnId": 540
+      },
+      {
+        "name": "어린이대공원역",
+        "line": "7호선",
+        "latitude": 37.5479114,
+        "longitude": 127.0746144,
+        "stnId": 541
+      },
+      {
+        "name": "종합운동장역",
+        "line": "9호선",
+        "latitude": 37.5115633,
+        "longitude": 127.0769743,
+        "stnId": 542
+      },
+      {
+        "name": "신포역",
+        "line": "수인선",
+        "latitude": 37.4684583,
+        "longitude": 126.6245266,
+        "stnId": 543
+      },
+      {
+        "name": "신답역",
+        "line": "2호선",
+        "latitude": 37.5698941,
+        "longitude": 127.0470274,
+        "stnId": 544
+      },
+      {
+        "name": "청계산입구역",
+        "line": "신분당선",
+        "latitude": 37.4482234,
+        "longitude": 127.0547415,
+        "stnId": 545
+      },
+      {
+        "name": "도곡역",
+        "line": "3호선",
+        "latitude": 37.4912142,
+        "longitude": 127.0560101,
+        "stnId": 546
+      },
+      {
+        "name": "신대방역",
+        "line": "2호선",
+        "latitude": 37.4875294,
+        "longitude": 126.9132972,
+        "stnId": 547
+      },
+      {
+        "name": "회기역",
+        "line": "1호선",
+        "latitude": 37.5898136,
+        "longitude": 127.0579498,
+        "stnId": 548
+      },
+      {
+        "name": "워터파크역",
+        "line": "자기부상철도",
+        "latitude": 37.4291949,
+        "longitude": 126.4341781,
+        "stnId": 549
+      },
+      {
+        "name": "송탄역",
+        "line": "1호선",
+        "latitude": 37.0753846,
+        "longitude": 127.0544008,
+        "stnId": 550
+      },
+      {
+        "name": "탄현역",
+        "line": "경의중앙선",
+        "latitude": 37.6938905,
+        "longitude": 126.7611798,
+        "stnId": 551
+      },
+      {
+        "name": "을지로입구역",
+        "line": "2호선",
+        "latitude": 37.5660691,
+        "longitude": 126.9826791,
+        "stnId": 552
+      },
+      {
+        "name": "센트럴파크역",
+        "line": "1호선",
+        "latitude": 37.3928207,
+        "longitude": 126.6349883,
+        "stnId": 553
+      },
+      {
+        "name": "김량장역",
+        "line": "에버라인",
+        "latitude": 37.237295,
+        "longitude": 127.1986847,
+        "stnId": 554
+      },
+      {
+        "name": "백양리역",
+        "line": "경춘선",
+        "latitude": 37.8308822,
+        "longitude": 127.5891067,
+        "stnId": 555
+      },
+      {
+        "name": "효자역",
+        "line": "의정부경전철",
+        "latitude": 37.7539991,
+        "longitude": 127.0772776,
+        "stnId": 556
+      },
+      {
+        "name": "압구정로데오역",
+        "line": "분당선",
+        "latitude": 37.5273935,
+        "longitude": 127.0405756,
+        "stnId": 557
+      },
+      {
+        "name": "회룡역",
+        "line": "1호선",
+        "latitude": 37.7240456,
+        "longitude": 127.0473386,
+        "stnId": 558
+      },
+      {
+        "name": "미금역",
+        "line": "분당선",
+        "latitude": 37.3500843,
+        "longitude": 127.1089644,
+        "stnId": 559
+      },
+      {
+        "name": "검암역",
+        "line": "2호선",
+        "latitude": 37.5687041,
+        "longitude": 126.6756625,
+        "stnId": 560
+      },
+      {
+        "name": "청량리역",
+        "line": "1호선",
+        "latitude": 37.5800215,
+        "longitude": 127.0447587,
+        "stnId": 561
+      },
+      {
+        "name": "검바위역",
+        "line": "2호선",
+        "latitude": 37.5611562,
+        "longitude": 126.6775051,
+        "stnId": 562
+      },
+      {
+        "name": "합동청사역",
+        "line": "자기부상철도",
+        "latitude": 37.4405266,
+        "longitude": 126.4586439,
+        "stnId": 563
+      },
+      {
+        "name": "부평역",
+        "line": "1호선",
+        "latitude": 37.4904807,
+        "longitude": 126.7234847,
+        "stnId": 564
+      },
+      {
+        "name": "강남대역",
+        "line": "에버라인",
+        "latitude": 37.2701767,
+        "longitude": 127.1260403,
+        "stnId": 565
+      },
+      {
+        "name": "언주역",
+        "line": "9호선",
+        "latitude": 37.5073268,
+        "longitude": 127.0338987,
+        "stnId": 566
+      },
+      {
+        "name": "양수역",
+        "line": "경의중앙선",
+        "latitude": 37.5460056,
+        "longitude": 127.3289686,
+        "stnId": 567
+      },
+      {
+        "name": "노원역",
+        "line": "7호선",
+        "latitude": 37.6545381,
+        "longitude": 127.0605678,
+        "stnId": 568
+      },
+      {
+        "name": "세류역",
+        "line": "1호선",
+        "latitude": 37.2441821,
+        "longitude": 127.0137176,
+        "stnId": 569
+      },
+      {
+        "name": "망원역",
+        "line": "6호선",
+        "latitude": 37.5560695,
+        "longitude": 126.9101082,
+        "stnId": 570
+      },
+      {
+        "name": "등촌역",
+        "line": "9호선",
+        "latitude": 37.5506944,
+        "longitude": 126.8655404,
+        "stnId": 571
+      },
+      {
+        "name": "가산디지털단지역",
+        "line": "7호선",
+        "latitude": 37.4803587,
+        "longitude": 126.8825229,
+        "stnId": 572
+      },
+      {
+        "name": "두정역",
+        "line": "1호선",
+        "latitude": 36.8337995,
+        "longitude": 127.1489144,
+        "stnId": 573
+      },
+      {
+        "name": "영등포구청역",
+        "line": "5호선",
+        "latitude": 37.5241988,
+        "longitude": 126.8954458,
+        "stnId": 574
+      },
+      {
+        "name": "구파발역",
+        "line": "3호선",
+        "latitude": 37.6365939,
+        "longitude": 126.9188484,
+        "stnId": 575
+      },
+      {
+        "name": "신목동역",
+        "line": "9호선",
+        "latitude": 37.5442751,
+        "longitude": 126.8830983,
+        "stnId": 576
+      },
+      {
+        "name": "월계역",
+        "line": "1호선",
+        "latitude": 37.6331249,
+        "longitude": 127.0588543,
+        "stnId": 577
+      },
+      {
+        "name": "고진역",
+        "line": "에버라인",
+        "latitude": 37.2446525,
+        "longitude": 127.214184,
+        "stnId": 578
+      },
+      {
+        "name": "행신역",
+        "line": "경의중앙선",
+        "latitude": 37.6121358,
+        "longitude": 126.8340842,
+        "stnId": 579
+      },
+      {
+        "name": "지평역",
+        "line": "경의중앙선",
+        "latitude": 37.4764667,
+        "longitude": 127.6296371,
+        "stnId": 580
+      },
+      {
+        "name": "삼송역",
+        "line": "3호선",
+        "latitude": 37.6531017,
+        "longitude": 126.8955814,
+        "stnId": 581
+      },
+      {
+        "name": "길음역",
+        "line": "4호선",
+        "latitude": 37.6031966,
+        "longitude": 127.0249269,
+        "stnId": 582
+      },
+      {
+        "name": "인천논현역",
+        "line": "수인선",
+        "latitude": 37.4006547,
+        "longitude": 126.7225124,
+        "stnId": 583
+      },
+      {
+        "name": "방이역",
+        "line": "5호선",
+        "latitude": 37.5085655,
+        "longitude": 127.1259762,
+        "stnId": 584
+      },
+      {
+        "name": "용유역",
+        "line": "자기부상철도",
+        "latitude": 37.4247574,
+        "longitude": 126.4236621,
+        "stnId": 585
+      },
+      {
+        "name": "부발역",
+        "line": "경강선",
+        "latitude": 37.2604155,
+        "longitude": 127.490321,
+        "stnId": 586
+      },
+      {
+        "name": "대성리역",
+        "line": "경춘선",
+        "latitude": 37.6841345,
+        "longitude": 127.3795762,
+        "stnId": 587
+      },
+      {
+        "name": "상봉역",
+        "line": "경의중앙선",
+        "latitude": 37.5967462,
+        "longitude": 127.0847802,
+        "stnId": 588
+      },
+      {
+        "name": "동대문역",
+        "line": "4호선",
+        "latitude": 37.5708991,
+        "longitude": 127.0092614,
+        "stnId": 589
+      },
+      {
+        "name": "미아역",
+        "line": "4호선",
+        "latitude": 37.6263994,
+        "longitude": 127.0261537,
+        "stnId": 590
+      },
+      {
+        "name": "신이문역",
+        "line": "1호선",
+        "latitude": 37.6018362,
+        "longitude": 127.0673681,
+        "stnId": 591
+      },
+      {
+        "name": "마곡역",
+        "line": "5호선",
+        "latitude": 37.5602607,
+        "longitude": 126.8246829,
+        "stnId": 592
+      },
+      {
+        "name": "고색역",
+        "line": "수인선",
+        "latitude": 37.2482378,
+        "longitude": 126.9801059,
+        "stnId": 593
+      },
+      {
+        "name": "오목천",
+        "line": "수인선",
+        "latitude": 37.2434903,
+        "longitude": 126.9619323,
+        "stnId": 594
+      },
+      {
+        "name": "어천역",
+        "line": "수인선",
+        "latitude": 37.2497402,
+        "longitude": 126.9089183,
+        "stnId": 595
+      },
+      {
+        "name": "야목역",
+        "line": "수인선",
+        "latitude": 37.2621626,
+        "longitude": 126.8848054,
+        "stnId": 596
+      },
+      {
+        "name": "사리역",
+        "line": "수인선",
+        "latitude": 37.2899607,
+        "longitude": 126.8546328,
+        "stnId": 597
+      }
+    ]
+  }
+}
